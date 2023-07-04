@@ -1,18 +1,22 @@
 # DBeaver入门
 
-## 引用
+## `引用`
 
 推荐文章：[DBeaver(数据库管理软件) v22.0.1 使用安装教程](https://blog.csdn.net/FxxYSHOOO/article/details/124103994)
 
-## 摘要
+<br>
 
-## 部署
+## `摘要`
+
+<br>
+
+## `部署`
 
 1. [官网下载地址](https://dbeaver.io/download/)
 
 2. 根据安装向导选择相应选项完成安装 
 
-## 使用
+## `使用`
 
 1. 在命令行中创建一个名为`database_start`的数据库
 
@@ -33,3 +37,11 @@
 5. 输入数据库名称和密码
 
     ![picture 5](images/3a67be34822a740f9023bad05cab827380c02c7f476b21888467866401eeb1a5.png)  
+
+<br>
+
+## `问题`
+
+1. dbeaver 如何解决Incorrect table definition; there can be only one auto column and it must be defined as a key
+
+    推荐文章：[there can be only one auto column and it must be defined as a key原因以及解决办法](https://blog.csdn.net/qq_27818541/article/details/124448508)

@@ -1,6 +1,6 @@
 # MySQL数据库入门笔记
 
-## 引用
+## `引用`
 
 推荐文章1：[MySQL零基础入门之从青铜到钻石](https://www.imooc.com/article/311324)
 
@@ -8,7 +8,9 @@
 
 <br>
 
-## 摘要
+## `摘要`
+
+---
 
 ### 数据库的介绍
 
@@ -51,7 +53,9 @@
 
 <br>
 
-## 部署
+## `部署`
+
+---
 
 1. 数据库的卸载
 
@@ -149,7 +153,9 @@
 
         ![](https://img1.sycdn.imooc.com/5f814cca0001fd9503840140.png)
 
-    > 使用cmd命令打开dos窗口，输出`mysql -V`查看当前MySQL版本
+    ```
+    使用cmd命令打开dos窗口，输出`mysql -V`查看当前MySQL版本
+    ```
 
 <br>
 
@@ -189,7 +195,9 @@
 
 <br>
 
-## 使用
+## `使用`
+
+---
 
 ### `数据库管理系统、数据库和表的关系:`
 
@@ -456,18 +464,32 @@
 
 <br>
 
-## 问题
+## `问题`
 
-**为什么cmd输入mysql显示不是内部或外部命令：**
+---
 
-这通常是因为 Windows 系统中没有将 MySQL 的安装路径加入到环境变量 PATH 中。你需要执行以下步骤：
+1. **为什么cmd输入mysql显示不是内部或外部命令：**
 
-1. 通过「开始」菜单搜索「环境变量」，并打开「系统属性」->「高级系统设置」->「环境变量」。
+    这通常是因为 Windows 系统中没有将 MySQL 的安装路径加入到环境变量 PATH 中。你需要执行以下步骤：
 
-2. 找到「系统变量」中的「Path」，并单击「编辑」。
+    1. 通过「开始」菜单搜索「环境变量」，并打开「系统属性」->「高级系统设置」->「环境变量」。
 
-3. 在「路径」字段后面添加 MySQL 安装目录中 bin 目录的路径，例如：C:\Program Files\MySQL\MySQL Server 8.0\bin
+    2. 找到「系统变量」中的「Path」，并单击「编辑」。
 
-4. 保存更改并重新打开命令提示符，然后再尝试输入「mysql」命令。
+    3. 在「路径」字段后面添加 MySQL 安装目录中 bin 目录的路径，例如：C:\Program Files\MySQL\MySQL Server 8.0\bin
 
-如果问题仍然存在，请检查 MySQL 的安装是否正确，确保它的 bin 目录中的所有文件都存在。
+    4. 保存更改并重新打开命令提示符，然后再尝试输入「mysql」命令。
+
+    如果问题仍然存在，请检查 MySQL 的安装是否正确，确保它的 bin 目录中的所有文件都存在。
+
+<br>
+
+2. **数据库提示 "Invalid default value for 'create_time'"**
+
+    参考文章1：[mysql datetime current_timestamp invalid default value](https://juejin.cn/s/mysql%20datetime%20current_timestamp%20invalid%20default%20value)
+
+    参考文章2：[Incorrect table definition； there can be only one TIMESTAMP column with CURRENT_TIMESTAMP in DEFAULT](https://juejin.cn/post/7000741327868543006)
+
+    **原因**：在 `MySQL 5.7.5` 版本之前，可以使用 `CURRENT_TIMESTAMP` 作为默认值来初始化 `create_time` 列。但是，在 `MySQL 5.7.5` 版本及更高版本中，如果未指定 `DEFAULT` 子句或指定了 `DEFAULT NULL` 子句，则 `create_time` 列将默认设置为 `CURRENT_TIMESTAMP`，而不能使用 `CURRENT_TIMESTAMP` 作为默认值。
+
+    **解决方法**：把 `create_time` 字段的类型改为 `TIMESTAMP`，但是其他时间（如birthday，并不需要自动生成的时间）还继续用 `DATETIME`。
