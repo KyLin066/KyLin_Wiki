@@ -26,79 +26,13 @@
 
 ### `部署`
 
-```
-推荐方法二，原因：VSCode目前仅支持JDK11及以上的版本，若使用JDK11以下的版本则构建项目时会发生错误。
-```
-
-### 方法一：
-
-1. 安装JDK
-
-2. 安装maven
-
-3. vscode搭建springboot
-
-    在 Visual Studio Code 中打开扩展视图(Ctrl+Shift+X)，搜索并安装
-    - **Extension Pack for Java**
-
-    ![picture 1](images/6687a6d8f9b2870f3a08df3b576482d065907303737ff090e6ae87bd568cbfbb.png)  
-
-    - **Spring Boot Extension Pack**
-
-    ![picture 2](images/efc4a61f0ef61cd287bc5da55fb10f80a39bc91ab88ffd4b6c7add2ee6592c95.png)  
-
-
-4. 配置maven
-   
-    打开设置，搜索maven，编辑 settings.json
-
-    ![picture 3](images/d05c9fbe98ada6ffa4cc698e7d03d5e2ed7dcaf29cd58f5208152188a6d7fc14.png)  
-
-    然后把maven的可执行文件路径配置、maven的setting路径配置、java.home的路径配置，拷贝到右侧的用户设置区域并且设置为自己电脑的实际路径
-
-    ```
-    {
-        "workbench.startupEditor": "newUntitledFile",
-        "java.errors.incompleteClasspath.severity": "ignore",
-        "workbench.colorTheme": "Material Theme Palenight",
-        "java.home":"C:\\Program Files\\Java\\jdk1.8.0_172",
-        "java.configuration.maven.userSettings": "D:\\apache-maven-3.9.1\\conf\\settings.xml",
-        "maven.executable.path": "D:\\apache-maven-3.9.1\\bin\\mvn.cmd",
-        "maven.terminal.useJavaHome": true,
-        "maven.terminal.customEnv": [
-            {
-                "environmentVariable": "JAVA_HOME",
-                "value": "C:\\Program Files\\Java\\jdk1.8.0_172"
-            }
-        ],
-        "extensions.autoUpdate": false,
-        "workbench.iconTheme": "material-icon-theme",
-    }
-    ```
-
-    配置完成重启 VSCode
-
-5. 创建SpringBoot项目
-   
-   - 5.1 使用ctrl+shift+p调出命令并输入spring选择创建一个maven项目
-   - 5.2 选择SpringBoot版本
-   - 5.3 选择使用的语言
-   - 5.4 你的Group id和Artifact Id
-   - 5.5 选择包类型
-   - 5.6 选择java版本
-   - 5.7 选择需要的依赖
-   - 5.8 选择保存位置，等待创建成功
-   - 5.9 创建成功后Open即可
-
-### 方法二：
-
 1. 去官网下载SpringBoot压缩包
 
     官网下载地址：https://start.spring.io/
 
 2. 选择相应配置
 
-    ![picture 5](images/d2050e1f56c92f0bc149437c41b01b7b1764a1a36ec95d8e34fef8c7ed21d4f4.png)  
+    ![picture 5](../images/d2050e1f56c92f0bc149437c41b01b7b1764a1a36ec95d8e34fef8c7ed21d4f4.png)  
 
 3. 解压之后导入VSCode
 
@@ -108,7 +42,7 @@
 
 项目启动成功后，我们在浏览器里访问 8080 端口测试一下
     
-![picture 6](images/615456dcbe8ce88603a38ab22cbee9eae766f48144eca2f1058007f2fb7e4e4f.png)  
+![picture 6](../images/615456dcbe8ce88603a38ab22cbee9eae766f48144eca2f1058007f2fb7e4e4f.png)  
 
 这个 404 页面是 Spring Boot 默认的错误页面，表示我们的请求在 Web 服务中不存在。
 
@@ -130,7 +64,7 @@ public class HelloController {
 
 这段代码的业务逻辑非常简单，用户发送 hello 请求，服务器端响应一个“Hello, SpringBoot”回去
 
-![picture 7](images/a1b96cfa339477026748386f38ac242d5d3054cca494a856a61c0a7b11cc6726.png)  
+![picture 7](../images/a1b96cfa339477026748386f38ac242d5d3054cca494a856a61c0a7b11cc6726.png)  
 
 SpringBoot修改默认端口
    
@@ -189,7 +123,7 @@ server.port = 9091
 
 1. 在 MySQL 中新建一个`t_hello`的表，添加相应的数据
 
-    ![picture 1](images/cfc1c3d489fbaec41831b8403effb3e2b1aacc743bea305496ab9ea7b4193570.png)  
+    ![picture 1](../images/cfc1c3d489fbaec41831b8403effb3e2b1aacc743bea305496ab9ea7b4193570.png)  
 
 2. 集成Mybatis首先在Maven的porm.xml中添加相关依赖
 
@@ -220,11 +154,11 @@ server.port = 9091
 
 4. 添加一个domain的包，新建一个与数据库表同名的实体类，并且项目按按下图分层
 
-    ![picture 1](images/6802dea74999eaf0ae6ac5d6bff4d38143d6a07dc08fd26fab55465247542426.png)  
+    ![picture 1](../images/6802dea74999eaf0ae6ac5d6bff4d38143d6a07dc08fd26fab55465247542426.png)  
 
 5. 在实体类中写入数据库表中相应的变量，并右键空白处，选择source action，生成get和set方法
 
-    ![picture 2](images/305174570af0c8cc33db7c2e4db5b8872688213745848998e51747863b1daae0.png)  
+    ![picture 2](../images/305174570af0c8cc33db7c2e4db5b8872688213745848998e51747863b1daae0.png)  
 
 6. 下面创建一个接口，新建一个mapper层在java文件夹中，接口都放在mapper层
 
@@ -324,7 +258,7 @@ server.port = 9091
 
 3. 做到这一步，证明SpringBoot集成Mybatis连接数据库成功
 
-    ![picture 3](images/8e33ab86ef32028e93cc53aff93fe7a74d47c6b3637a4fc6abd9090526c1cdbb.png)  
+    ![picture 3](../images/8e33ab86ef32028e93cc53aff93fe7a74d47c6b3637a4fc6abd9090526c1cdbb.png)  
 
 4. 下面就开始实现根据三级域名输入的字段来查询年龄，首先在mapper层写一个方法
 
@@ -364,7 +298,7 @@ server.port = 9091
 
 8. 效果如下图
 
-    ![picture 5](images/8b38710d580a0986571365f3eef692ad7521e26ec208104cf52d219dd80d475d.png)  
+    ![picture 5](../images/8b38710d580a0986571365f3eef692ad7521e26ec208104cf52d219dd80d475d.png)  
 
 9. 如果输入一个数据库不存在的名称，显示不知道，那么写一个if判断
 
@@ -382,7 +316,7 @@ server.port = 9091
 
 10. 效果如下图
     
-    ![picture 6](images/5296a6b3511cf292579c2f3ce02a28c11b50775dc501c50351dfaa583c226498.png)  
+    ![picture 6](../images/5296a6b3511cf292579c2f3ce02a28c11b50775dc501c50351dfaa583c226498.png)  
 
 <br>
 
