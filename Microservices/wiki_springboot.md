@@ -1,6 +1,6 @@
 # SpringBoot学习笔记
 
-工程案例：<https://github.com/KyLin066/SpringBoot_Start>;
+工程案例：<https://github.com/KyLin066/SpringBoot_Start>
 
 <br>
 
