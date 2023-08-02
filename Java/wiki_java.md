@@ -83,6 +83,8 @@
 
     ![picture 7](../images/c45f83a06114edd88c344f63add0b8d01276721a960c9dfa2f23c8542aac3f8c.png)  
 
+<br>
+
 ### `二、见名知意代码美`
 
 1. 标识符
@@ -144,3 +146,79 @@
         }
     }
     ```
+
+<br>
+
+### `三、基本数据类型`
+
+Java的数据类型：
+
+![picture 13](../images/34a8461858494d5cbbdf30123a59a733e0f7035e9a685208f9c4b4af0b34c12b.png)  
+
+#### `3.1 数值型`
+
+#### 整型
+
+![picture 14](../images/6a3a7b4ed265078cb1b4439f28b7298c9fc1dfe617db7aaded96f774bd8e389c.png)  
+
+Java整型数据类型案例代码（TestIntDouble.java）：
+
+```
+public class TestIntDouble {
+    // Java基本数据类型之整型和浮点型
+    public static void main(String[] args) {
+        byte age = 20;
+        short salary = 25000;
+        int beijingPopulation = 30000000;
+
+        // 整型常量默认的类型是int，改成long类型需要后面加：L/l
+        long globalPopulation = 7000000000L;
+        System.out.println("整型数据类型：" + age + "," + salary + "," + beijingPopulation + "," + globalPopulation);
+
+        // 关于进制
+        int t1 = 65; // 十进制
+        int t2 = 065; // 八进制
+        int t3 = 0x65; // 十六进制
+        int t4 = 0b01000001; // 二进制
+
+        System.out.println(t1);
+        System.out.println(t2);
+        System.out.println(t3);
+        System.out.println(t4);
+    }
+}
+```
+
+#### 浮点型
+
+![picture 15](../images/0f2533466b52ada3b4ebcda30398352433c44f6fd324b98911ee7f2ef8fc5904.png)  
+
+![picture 16](../images/47598d7165f6fda5209b754014115d1656182c869895f5504e99c03ae2dbee22.png)  
+
+Java浮点型数据类型案例代码（TestIntDouble.java）：
+
+```
+public class TestIntDouble {
+    // Java基本数据类型之整型和浮点型
+    public static void main(String[] args) {
+        // 测试浮点数
+        double d1 = 3.14;
+        float f1 = 3.14F; // 浮点常量默认是
+
+        double d2 = 314E-2; // 科学计数法：314*10^(-2)
+
+        System.out.println("double型："+d1);
+        System.out.println("float型："+f1);
+        System.out.println("科学计数法："+d2);
+
+        // 浮点数是不精确的，用于比较要小心
+        // 如果要使用精确的运算，使用BigDecimal类
+        float f3 = 0.1F;
+        double d3 = 0.1;
+
+        System.out.println(f3);
+        System.out.println(d3);
+        System.out.println(f3 == d3);
+    }
+}
+```
