@@ -222,3 +222,47 @@ public class TestIntDouble {
     }
 }
 ```
+
+#### `3.2 字符型`
+
+#### 字符集
+
+Java字符集数据类型案例代码（TestChar.java）：
+
+```
+public class TestChar {
+    // Java基本数据类型之字符集
+    public static void main(String[] args) {
+        // 测试char
+        char c1='A';
+        char c2='陈';
+
+        System.out.println(c1);
+        System.out.println(c2);
+    }
+}
+```
+
+#### 转义字符
+
+![picture 17](../images/634d8274eef1c38a9cce658b4665270d2df9f5311bc551eec0767d71906b48f3.png)  
+
+#### `3.3 布尔型`
+
+#### boolean型
+
+![picture 22](../images/7cf6b2b0e52b466d2b0c9ff320697eba862fa8c713fd0730c78b339b7871d782.png)  
+
+Java字符集数据类型案例代码（TestBoolean.java）：
+
+```
+public class TestBoolean {
+    // Java基本数据类型之Boolean型
+    public static void main(String[] args) {
+        boolean flag = true;
+        if(flag){
+            System.out.println("I love coding");
+        }
+    }
+}
+```
