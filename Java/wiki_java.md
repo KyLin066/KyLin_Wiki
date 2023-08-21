@@ -128,10 +128,10 @@
 
     ![picture 12](../images/403b00f8151331cd1d6396cc0e81f7bc1199c6b4aeab81adfe1fb21a6a058ac9.png)
 
-    Java变量的本质案例代码（Test01.java）：
+    Java变量的本质案例代码（TestVariable.java）：
     
     ```
-    public class Test01 {
+    public class TestVariable {
         // Java 标识符以及变量的本质
         public static void main(String[] args) {
             // 变量的本质
@@ -454,3 +454,27 @@ public class TestSystemIn {
     }
 }
 ```
+
+<br>
+
+### `七、流程控制语句`
+
+#### `选择结构`
+
+#### 1. if语句
+
+![picture 26](../images/44590d2d33ae609cfd4bebd3796b115b8ff12ff79f56ef21eede4f89be6ccd64.png)  
+
+#### 2. if…else…语句
+
+![picture 27](../images/b9e2e35858a6592ee2154b79dd2439349360d06dff9dd4cd25c5efcb6d69a360.png)  
+
+#### 3. 多分支语句
+
+![picture 28](../images/b8cef4b75b7b009789366fe4f27072176ae95b631fac11ae5db694f4981f1dc3.png)  
+
+#### 4. swich多值判断语句
+
+![picture 29](../images/955a9773c36fb9e8b4ba7f6514303dce0ba2cfc9d5c96a49b9ed8a9d96592414.png)  
+
+#### `循环结构`
