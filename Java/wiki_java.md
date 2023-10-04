@@ -62,6 +62,8 @@
     新建一个mycode文件夹，创建一个Welcome.java文件，输入以下代码
 
     ```
+    package a_hello_world;
+
     public class Welcome {
         public static void main(String[] args){
             System.out.println("Hello World");
@@ -95,27 +97,6 @@
 
     ![picture 9](../images/73dd58f7ee5a99a56c0e56eb7f033e7734909508aed38fdfad99839972b31859.png)  
 
-    Java标识符案例代码（Test01.java）：
-
-    ```
-    public class Test01 {
-        // Java 标识符
-        public static void main(String[] args) {
-            // 以下为合规的标识符
-            int age = 18;
-            int _age = 19;
-            int $age = 20;
-            int age123 = 21;
-            int 年龄 = 22;
-
-            // 以下为不合规的标识符
-            // int 123age = 23; // 数字不能做开头
-            // int age# = 24; // 标识符只能是：字母、数字、下划线和$
-            // int class = 25; // 标识符不能是关键字
-        }
-    }
-    ```
-
 2. 注释
 
     ![picture 10](../images/b675de1bdc9ab9ddef6e433942b3e337da2dc0c8d3bf66b6d24aa6093f2b9c30.png)  
@@ -128,12 +109,26 @@
 
     ![picture 12](../images/403b00f8151331cd1d6396cc0e81f7bc1199c6b4aeab81adfe1fb21a6a058ac9.png)
 
-    Java变量的本质案例代码（TestVariable.java）：
+    Java标识符以及变量的本质案例代码（TestVariable.java）：
     
     ```
+    package b_variable;
+
     public class TestVariable {
         // Java 标识符以及变量的本质
         public static void main(String[] args) {
+            // 以下为合规的标识符
+            // int age = 18;
+            // int _age = 19;
+            // int $age = 20;
+            // int age123 = 21;
+            // int 年龄 = 22;
+
+            // 以下为不合规的标识符
+            // int 123age = 23; // 数字不能做开头
+            // int age# = 24; // 标识符只能是：字母、数字、下划线和$
+            // int class = 25; // 标识符不能是关键字
+
             // 变量的本质
             int monthlySalary = 15000;
             int annualSalary = monthlySalary * 12;
@@ -159,9 +154,17 @@ Java的数据类型：
 
 ![picture 14](../images/6a3a7b4ed265078cb1b4439f28b7298c9fc1dfe617db7aaded96f774bd8e389c.png)  
 
+#### 浮点型
+
+![picture 15](../images/0f2533466b52ada3b4ebcda30398352433c44f6fd324b98911ee7f2ef8fc5904.png)  
+
+![picture 16](../images/47598d7165f6fda5209b754014115d1656182c869895f5504e99c03ae2dbee22.png)  
+
 Java整型数据类型案例代码（TestIntDouble.java）：
 
 ```
+package c_data_type;
+
 public class TestIntDouble {
     // Java基本数据类型之整型和浮点型
     public static void main(String[] args) {
@@ -179,35 +182,20 @@ public class TestIntDouble {
         int t3 = 0x65; // 十六进制
         int t4 = 0b01000001; // 二进制
 
-        System.out.println(t1);
-        System.out.println(t2);
-        System.out.println(t3);
-        System.out.println(t4);
-    }
-}
-```
+        System.out.println("十进制：" + t1);
+        System.out.println("八进制：" + t2);
+        System.out.println("十六进制：" + t3);
+        System.out.println("二进制：" + t4);
 
-#### 浮点型
-
-![picture 15](../images/0f2533466b52ada3b4ebcda30398352433c44f6fd324b98911ee7f2ef8fc5904.png)  
-
-![picture 16](../images/47598d7165f6fda5209b754014115d1656182c869895f5504e99c03ae2dbee22.png)  
-
-Java浮点型数据类型案例代码（TestIntDouble.java）：
-
-```
-public class TestIntDouble {
-    // Java基本数据类型之整型和浮点型
-    public static void main(String[] args) {
         // 测试浮点数
         double d1 = 3.14;
         float f1 = 3.14F; // 浮点常量默认是
 
         double d2 = 314E-2; // 科学计数法：314*10^(-2)
 
-        System.out.println("double型："+d1);
-        System.out.println("float型："+f1);
-        System.out.println("科学计数法："+d2);
+        System.out.println("double型：" + d1);
+        System.out.println("float型：" + f1);
+        System.out.println("科学计数法：" + d2);
 
         // 浮点数是不精确的，用于比较要小心
         // 如果要使用精确的运算，使用BigDecimal类
@@ -228,12 +216,14 @@ public class TestIntDouble {
 Java字符集数据类型案例代码（TestChar.java）：
 
 ```
+package c_data_type;
+
 public class TestChar {
     // Java基本数据类型之字符集
     public static void main(String[] args) {
         // 测试char
-        char c1='A';
-        char c2='陈';
+        char c1 = 'A';
+        char c2 = '陈';
 
         System.out.println(c1);
         System.out.println(c2);
@@ -254,11 +244,13 @@ public class TestChar {
 Java字符集数据类型案例代码（TestBoolean.java）：
 
 ```
+package c_data_type;
+
 public class TestBoolean {
     // Java基本数据类型之Boolean型
     public static void main(String[] args) {
         boolean flag = true;
-        if(flag){
+        if (flag) {
             System.out.println("I love coding");
         }
     }
@@ -296,6 +288,8 @@ public class TestBoolean {
 Java基本运算符案例代码（TestOperator.java）：
 
 ```
+package d_operator;
+
 public class TestOperator {
     public static void main(String[] args) {
         System.out.println("======算术运算符======");
@@ -369,7 +363,7 @@ public class TestOperator {
         System.out.println("======条件运算符======");
         int y1 = 300;
         int y2 = 40;
-        int min = y1<y2?y1:y2; // 总是返回y1和y2比较小的值
+        int min = y1 < y2 ? y1 : y2; // 总是返回y1和y2比较小的值
 
         System.out.println(min);
     }
@@ -385,6 +379,8 @@ public class TestOperator {
 Java数据类型转换案例代码（TestTypeConvert.java）：
 
 ```
+package e_type_convert;
+
 public class TestTypeConvert {
     // 测试基本数据类型的转换（自动转换、强制转换）
     public static void main(String[] args) {
@@ -433,6 +429,8 @@ public class TestTypeConvert {
 
 Java测试键盘输入案例代码（TestSystemIn.java）：
 ```
+package f_keypad_input;
+
 import java.util.Scanner;
 
 public class TestSystemIn {
@@ -479,6 +477,8 @@ public class TestSystemIn {
 
 Java测试选择结构案例代码（TestOption.java）：
 ```
+package g_control_language;
+
 public class TestOption {
     // 测试选择结构
     public static void main(String[] args) {
@@ -565,14 +565,14 @@ public class TestOption {
         }
 
         // 买车情况
-        String car = "宝马";
+        String car = "奔驰";
 
         switch (car) {
-            case "宝马":
-                System.out.println("宝马是一款豪华汽车，它拥有优秀的性能和舒适的驾驶体验。");
-                break;
             case "奔驰":
                 System.out.println("奔驰是一款经典汽车，它以其优雅的外观和卓越的性能而闻名。");
+                break;
+            case "宝马":
+                System.out.println("宝马是一款豪华汽车，它拥有优秀的性能和舒适的驾驶体验。");
                 break;
             case "奥迪":
                 System.out.println("奥迪是一款高端汽车，它以其先进的技术和出色的性能而受到欢迎。");
@@ -674,6 +674,8 @@ public class TestOption {
 
 Java测试循环结构案例代码（TestCircuit.java）：
 ```
+package g_control_language;
+
 public class TestCircuit {
     // 测试循环结构
     public static void main(String[] args) {
@@ -713,6 +715,8 @@ public class TestCircuit {
 
 Java测试嵌套循环案例代码（TestNestedCycle.java）：
 ```
+package g_control_language;
+
 public class TestNestedCycle {
     // 测试嵌套循环
     public static void main(String[] args) {
@@ -768,6 +772,8 @@ public class TestNestedCycle {
 
 Java测试break语句案例代码（TestBreak.java）：
 ```
+package g_control_language;
+
 public class TestBreak {
     // 测试break语句
     public static void main(String[] args) {
@@ -788,6 +794,8 @@ public class TestBreak {
 
 Java测试continue语句案例代码（TestContinue.java）：
 ```
+package g_control_language;
+
 public class TestContinue {
     // 测试continue语句
     public static void main(String[] args) {
@@ -809,6 +817,8 @@ public class TestContinue {
 
 Java测试break和continue语句案例代码（TestBreakContinue.java）：
 ```
+package g_control_language;
+
 public class TestBreakContinue {
     // Java的Break和Continue语句综合练习
     public static void main(String[] args) {
@@ -852,7 +862,7 @@ public class TestBreakContinue {
                 tortoise++;
             }
         }
-        
+
         System.out.println("一个共抓到了" + total + "只动物");
         System.out.println("一个共抓到了" + cat + "只小猫");
         System.out.println("一个共抓到了" + dog + "只小狗");
@@ -866,6 +876,8 @@ public class TestBreakContinue {
 
 Java控制语句综合练习案例代码（TestControlSynthesis.java）：
 ```
+package g_control_language;
+
 public class TestControlSynthesis {
     // 控制语句综合练习
     public static void main(String[] args) {
@@ -892,6 +904,7 @@ public class TestControlSynthesis {
 
 年薪计算小软件案例代码（SalarySoft.java）：
 ```
+package g_control_language;
 
 /*
  * 年薪计算小软件
@@ -939,6 +952,115 @@ public class SalarySoft {
                 }
             }
         }
+    }
+}
+```
+
+<br>
+
+### `八、方法`
+
+#### `方法的定义和调用`
+
+![picture 33](../images/a4d32d7535e6f0b7f6bb44950d515b3ff0c129eeb541430ce2c0a6488763933f.png)  
+
+![picture 34](../images/dc43433066476a2b220d11d20afc2bd3e26e8e68b1fccdf4c0f7ed3118b635d9.png)  
+
+![picture 35](../images/56515e3dbd0a7cd2b2bd16b9513593d0e0421c1332bba55e76681d287c231756.png)  
+
+
+Java方法的定义和调用案例代码（TestMethod.java）：
+```
+package h_method;
+
+// 测试方法的定义和调用
+public class TestMethod {
+    // main方法，程序的主入口
+    public static void main(String[] args) {
+        int a1 = add(100, 200);
+        int a2 = add(200, 300);
+        int sum = add(a1, a2); // 实际参数
+        System.out.println(sum);
+
+        printInfo();
+    }
+
+    // 定义一个求和的方法（有参数，有返回值）
+    public static int add(int n1, int n2) { // 形式参数
+        int sum = n1 + n2;
+        return sum;
+    }
+
+    // 定义一个打印信息的方法（没有参数，没有返回值）
+    public static void printInfo() {
+        System.out.println("KyLin");
+    }
+}
+```
+
+简易计算器案例代码（Calculator.java）：
+```
+package h_method;
+
+import java.util.Scanner;
+
+// 实现一个计算器
+public class Calculator {
+    public static void main(String[] args) {
+        try (Scanner scanner = new Scanner(System.in)) {
+            System.out.print("请输入一个算术表达式：");
+            String input = scanner.nextLine();
+
+            String[] parts = input.split(" ");
+            double num1 = Double.parseDouble(parts[0]);
+            String operator = parts[1];
+            double num2 = Double.parseDouble(parts[2]);
+
+            switch (operator) {
+                case "+":
+                    System.out.println("结果: " + add(num1, num2));
+                    break;
+                case "-":
+                    System.out.println("结果: " + subtract(num1, num2));
+                    break;
+                case "*":
+                    System.out.println("结果: " + multiply(num1, num2));
+                    break;
+                case "/":
+                    System.out.println("结果: " + divide(num1, num2));
+                    break;
+                default:
+                    System.out.println("未知的运算符: " + operator);
+                    break;
+            }
+        } catch (NumberFormatException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
+    }
+
+    // 相加操作
+    public static double add(double n1, double n2) {
+        double sum = n1 + n2;
+        return sum;
+    }
+
+    // 相减操作
+    public static double subtract(double n1, double n2) {
+        double sum = n1 - n2;
+        return sum;
+    }
+
+    // 相乘操作
+    public static double multiply(double n1, double n2) {
+        double sum = n1 * n2;
+        return sum;
+    }
+
+    // 相除操作
+    public static double divide(double n1, double n2) {
+        double sum = n1 / n2;
+        return sum;
     }
 }
 ```
