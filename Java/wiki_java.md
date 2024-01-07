@@ -1114,3 +1114,53 @@ public class TestOverload {
     }
 }
 ```
+
+<br>
+
+### `九、面向对象编程`
+
+#### `类和对象`
+
+![picture 39](../images/70624b59bf214382d0cd14ddc0a2af65a0860bd2f1c7839ab622b3fc8a10bdba.png)  
+
+![picture 40](../images/80a9c7ff913760aa7480b03f5aa3016a4f74f4a7249ed3aa9d97d7ffc5989a6e.png)  
+
+![picture 41](../images/41157d9bd0515b17f5591eb89a6a133c75df84e34ee7b9b164abfb536512c5c0.png)  
+
+![picture 42](../images/d083ee13d751846911c80bd1674a055d9417e5277ab9357caaa2ebe3fc1ea72f.png)  
+
+类和对象案例代码（Student.java）：
+```
+package i_obj;
+
+public class Student {
+    // 静态特征（数据）
+    int id;
+    String name;
+    int score;
+    int age;
+
+    // 方法（动态行为）（对数据的操作）
+    public void study() {
+        System.out.println(name + "，正在学习！");
+    }
+
+    // main方法是程序的入口！
+    public static void main(String[] args) {
+        Student stu01 = new Student();
+        stu01.id = 1001;
+        stu01.name = "KyLin";
+        stu01.score = 90;
+        stu01.age = 23;
+
+        Student stu02 = new Student();
+        stu02.id = 1002;
+        stu02.name = "Mario";
+        stu02.score = 80;
+        stu02.age = 19;
+
+        stu01.study();
+        stu02.study();
+    }
+}
+```
