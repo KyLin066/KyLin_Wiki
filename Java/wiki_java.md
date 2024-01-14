@@ -1210,3 +1210,81 @@ public class KyLinStudent {
     }
 }
 ```
+
+#### `构造方法详解`
+
+#### 1.构造方法的核心作用
+
+![picture 43](../images/980b31b90fbdc687ca7fadb51091fc226053485044802fa237c57534b78af173.png)  
+
+![picture 44](../images/6591383e52b6402d4cf30c02335bb78ce412bc365e3f67d8eedeb6e19bbb0c17.png)  
+
+构造方法的核心作用案例代码（Point.java）：
+```
+/*
+ * 描述二维空间的一个点
+ */
+
+package i_obj;
+
+public class Point {
+    double x;
+    double y;
+
+    public Point(double _x, double _y) {
+        x = _x;
+        y = _y;
+    }
+
+    public static void main(String[] args) {
+        Point p1 = new Point(3.0, 4);
+        System.out.println(p1.x);
+    }
+}
+```
+
+#### 2.创建对象4大步和构造方法调用之间的关系
+
+![picture 45](../images/2e81440cdbcad95cd688c0507ff2edc752aa219299ece6828daed1a35b9904df.png)  
+
+#### 3.构造方法的重载
+
+![picture 46](../images/92e91a3194f2c87ad664013ad79ccc0d34b6d423ba2a7a738bb62d69c944e65d.png)  
+
+构造方法的重载案例代码（User.java）：
+```
+/*
+ * 模拟网站的账户（用于测试构造方法的重载）
+ */
+
+package i_obj;
+
+public class User {
+
+    int id;
+    String userName; // 用户名
+    String pwd; // 密码
+
+    public User() {
+
+    }
+
+    public User(int _id) {
+        id = _id;
+    }
+
+    public User(int _id, String _userName, String _pwd) {
+        id = _id;
+        userName = _userName;
+        pwd = _pwd;
+    }
+
+    public static void main(String[] args) {
+        User u1 = new User();
+        User u2 = new User(1001);
+        User u3 = new User(1002, "KyLin", "123456");
+
+        System.out.println(u1.id + u2.id + u3.userName);
+    }
+}
+```
