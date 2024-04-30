@@ -1213,7 +1213,7 @@ public class KyLinStudent {
 
 #### `构造方法详解`
 
-#### 1.构造方法的核心作用
+##### 1.构造方法的核心作用
 
 ![picture 43](../images/980b31b90fbdc687ca7fadb51091fc226053485044802fa237c57534b78af173.png)  
 
@@ -1243,11 +1243,11 @@ public class Point {
 }
 ```
 
-#### 2.创建对象4大步和构造方法调用之间的关系
+##### 2.创建对象4大步和构造方法调用之间的关系
 
 ![picture 45](../images/2e81440cdbcad95cd688c0507ff2edc752aa219299ece6828daed1a35b9904df.png)  
 
-#### 3.构造方法的重载
+##### 3.构造方法的重载
 
 ![picture 46](../images/92e91a3194f2c87ad664013ad79ccc0d34b6d423ba2a7a738bb62d69c944e65d.png)  
 
@@ -1288,3 +1288,65 @@ public class User {
     }
 }
 ```
+
+<br>
+
+### `十、图形化分析内存`
+
+#### `栈和堆`
+
+##### 1.Java虚拟机内存模型（完整版）
+
+![picture 47](../images/4889b6bd21a18166db07aaf13caaffa0de8ffd0b21027b0ab13d6406a9a977ff.png)  
+
+##### 2.Java虚拟机内存模型（简化版）
+
+![picture 48](../images/7ad1c2b3f321e12f255b5d6c14a784fcf30c66c7a1052f2e9dd22a365b428a65.png)  
+
+##### 3.栈的特点
+
+![picture 49](../images/cb2fa6ef60628ea1f4c0a2e64c97b92d93cba8258908b22d68b797d24ff64d76.png)  
+
+##### 4.堆的特点
+
+![picture 50](../images/a684e6375048e54da74e6167da60e06e7cd66b0a6e0f1ac804f941c51a729052.png)  
+
+##### 5.方法区的特点
+
+![picture 51](../images/92c63ca3c55543401c52cca5a30749901f3de0bb3ebfa293ce0a4762a7b9dae1.png)  
+
+堆栈内存分析案例代码（Person.java）：
+```
+package i_obj;
+
+public class Person {
+    String name;
+    int age;
+
+    public void show() {
+        System.out.println("姓名：" + name + "\t年龄：" + age);
+    }
+
+    Person(String _name, int _age) {
+        name = _name;
+        age = _age;
+    }
+
+    Person() {
+    }
+
+    public static void main(String[] args) {
+        Person p1 = new Person();
+        p1.age = 24;
+        p1.name = "张三";
+        p1.show();
+
+        Person p2 = new Person("李四", 30);
+        p2.show();
+    }
+}
+```
+
+##### 6.Demo代码堆栈的内存分析
+
+![picture 52](../images/ec7f3a40e4af13518f90c6e2c1763eefe81ce557e3c85bbc30f6918f668b9a92.png)  
