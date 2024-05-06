@@ -1350,3 +1350,87 @@ public class Person {
 ##### 6.Demo代码堆栈的内存分析
 
 ![picture 52](../images/ec7f3a40e4af13518f90c6e2c1763eefe81ce557e3c85bbc30f6918f668b9a92.png)  
+
+#### `this的本质`
+
+##### 1.结合内存模型讲this的本质
+
+![picture 53](../images/b1c2e373361377c346483ca8bda0df8f66c159046eae6739a8155ae855574134.png)  
+
+##### 2.this的常见用法
+
+this常见用法案例代码（User2.java）：
+```
+package i_obj;
+
+public class User2 {
+    int id;
+    String name;
+    String pwd;
+
+    public User2() {
+
+    }
+
+    public User2(int id, String name) {
+        System.out.println("正在要初始化的对象：" + this);
+        this.id = id;
+        this.name = name;
+    }
+
+    public void login() {
+        System.out.println("要登录：" + this.name + "，密码：" + this.pwd);
+    }
+
+    public static void main(String[] args) {
+        User2 u = new User2(101, "KyLin");
+        u.login();
+    }
+}
+```
+
+this常见用法内存分析：
+
+![this内存分析 1](../images/ab110f521e211636bc3b9278c22b80a4b77f512834eb00f9f3faa3e0776b8cae.png)  
+
+![this内存分析 2](../images/4c29968e069b03095158efdf2307124cd66a3964ab793e19c36d88bd14f85458.png)  
+
+##### 3.this()调用重载的构造方法
+
+this调用重载的构造方法案例代码（User2.java）：
+```
+package i_obj;
+
+public class User2 {
+    int id;
+    String name;
+    String pwd;
+
+    public User2() {
+
+    }
+
+    public User2(int id, String name) {
+        System.out.println("正在要初始化的对象：" + this);
+        this.id = id;
+        this.name = name;
+    }
+
+    public User2(int id, String name, String pwd) {
+        this(id, name); // 调用了重载的构造器！这种调用，必须位于构造方法的第一行！
+        this.pwd = pwd;
+    }
+
+    public void login() {
+        System.out.println("要登录：" + this.name + "，密码：" + this.pwd);
+    }
+
+    public static void main(String[] args) {
+        User2 u1 = new User2(101, "KyLin");
+        u1.login();
+
+        User2 u2 = new User2(102, "Mario", "123456");
+        System.out.println(u2.name + "的密码是：" + u2.pwd);
+    }
+}
+```
