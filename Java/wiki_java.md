@@ -1434,3 +1434,65 @@ public class User2 {
     }
 }
 ```
+
+#### `static的本质`
+
+##### 1.static关键字核心用法
+
+![static核心用法](../images/76bf6281f2e7b0bdae84d92d9f355a64c58162e49c67c3e011724c6d798d5cea.png)  
+
+##### 2.static关键字本质和内存模型
+
+static的本质案例代码（TestStatic.java）：
+```
+/**
+ * 测试static的用法
+ */
+package i_obj;
+
+public class TestStatic {
+    static String company = "Linux";
+
+    static void printCompany() {
+        System.out.println(company);
+        // System.out.println(this); //static方法中不能使用非static
+    }
+
+    void login() {
+        System.out.println("登录");
+    }
+
+    public static void main(String[] args) {
+        // static从属于类，不是对象，可以直接调用
+        TestStatic.printCompany();
+
+        // 对象不可以直接调用，需要创建
+        TestStatic t1 = new TestStatic();
+        t1.login();
+        TestStatic t2 = new TestStatic();
+        t2.login();
+    }
+}
+```
+
+![static内存分析](../images/20cb0a5d9363715d31ef487b552aa0e9fcf32c57ad8b89e11e9aa4c487907ef9.png)  
+
+##### 3.static初始化块
+
+![静态初始化块](../images/1e46d81c238940f7a91f5f3207fe5eff89c6a2269a9b8fd472b6bc5627d7faf2.png)  
+
+##### 4.小结
+
+`问题1`：在Java中static修饰的变量的属性和方法从属于类，普通属性从属于对象。这句话对不对？
+
+`答`：这句话是正确的。在Java中，static修饰的变量和方法确实从属于类，而不是任何特定的实例。这意味着，无论创建了多少个类的实例，static变量和方法只有一份，所有实例共享这一份。
+
+相反，非static的变量和方法从属于类的每一个实例。每当创建一个新的实例，就会为这些非static的变量和方法创建一份新的副本。
+
+这就是为什么我们可以直接通过类名来访问static变量和方法，而对于非static的变量和方法，我们需要通过类的实例来访问。
+
+`问题2`：请画内存图或文字说明“static方法中不能使用this的原因”。
+
+`答`：在Java中，this关键字是一个引用，指向当前对象的实例。当我们在一个类的非静态方法中使用this时，它指向调用该方法的对象的实例。
+
+然而，静态方法与对象实例无关，它们属于类，而不是类的任何特定实例。因此，静态方法中没有当前对象实例的概念，也就没有this引用。这就是为什么在静态方法中不能使用this的原因。
