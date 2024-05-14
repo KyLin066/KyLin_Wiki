@@ -74,7 +74,6 @@ public class Calculator {
                     break;
             }
         } catch (NumberFormatException e) {
-            // TODO Auto-generated catch block
             e.printStackTrace();
         }
     }
