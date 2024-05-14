@@ -137,6 +137,68 @@ class Plane extends Vehicle {
 
 - 修饰类：修饰的类不能被继承。比如：Math、String等。`final class A{}`
 
+### 五、继承和组合
+
+`组合的核心：`
+```
+“组合”的核心就是“将父类对象作为子类的属性”，然后，“子类通过调用这个属性来获得父类的属性和方法”。
+```
+
+`组合和继承的比较：`
+1. 组合比较灵活。继承只能有一个父类，但是组合可以有多个属性。
+
+2. 对于“is-a”关系建议使用继承，“has-a”关系建议使用组合。
+
+`Java组合的案例代码（TestComposition.java）：`
+```
+package j_inherit;
+
+/**
+ * 测试组合
+ */
+public class TestComposition {
+    public static void main(String[] args) {
+        Stu stu = new Stu("KyLin", 166, "java");
+        stu.person.rest();
+        System.out.println(stu.person.name);
+        System.out.println(stu.person.height);
+        System.out.println(stu.major);
+    }
+}
+
+class Stu {
+    Person person = new Person();
+    String major;
+
+    public void study() {
+        System.out.println("Stu.study");
+    }
+
+    public Stu(String name, int height, String major) {
+        this.person.name = name;
+        this.person.height = height;
+        this.major = major;
+    }
+}
+
+class CPU {
+    void calculate() {
+        System.out.println("CPU.calculate");
+    }
+}
+
+class Memory {
+    void store() {
+        System.out.println("Memory.store");
+    }
+}
+
+class Computer {
+    CPU cpu = new CPU();
+    Memory memory = new Memory();
+}
+```
+
 <br>
 
 ## **封装**
