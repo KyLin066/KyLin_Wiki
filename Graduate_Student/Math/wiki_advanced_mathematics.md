@@ -53,6 +53,18 @@
 
 ![tan(x)常用数值](../../images/e09fd34a1d5d65c3c9cc9cccb582e3e6eeb5e4bbb8fbcd4bda3cbb34ac7f0b33.png)  
 
+### 4.cot(x)
+
+TODO
+
+### 5.sec(x)
+
+![sec(x)常用数值](../../images/687a1e2027ee2c798a817a2e21f6bf33f91e3a5454a56712fdc168789a43dfc1.png)  
+
+### 6.csc(x)
+
+TODO
+
 <br>
 
 ## `常用求导例子`
