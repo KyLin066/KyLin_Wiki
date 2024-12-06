@@ -1,7 +1,7 @@
 # Markdown学习笔记
 
 ## `引用`
-Markdown中文语法文档：[Markdown 入门指南](https://www.markdown.xyz/getting-started/)
+Markdown教程：[Markdown 教程](https://markdown.com.cn/basic-syntax/)
 
 <br>
 
