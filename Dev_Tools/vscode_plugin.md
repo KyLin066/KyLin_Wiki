@@ -117,3 +117,17 @@ Todo Tree 是 Visual Studio Code（VS Code）中一款强大的插件，可以�
 5. **配置选项**： Todo Tree 提供了丰富的配置选项，你可以根据自己的需要调整插件的行为。你可以通过点击 Todo Tree 视图右上角的齿轮图标或者在 VS Code 的设置中找到 Todo Tree 进行配置，也可以在setting.json文件中自定义更改todo tree的配置。
 
 6. 更多详情请查看 TODO Tree 官方链接
+
+<br>
+
+## 5.Vira Theme
+
+### `摘要`
+
+```
+Vira Theme是一款VS Code的主题插件，它的前身是广受欢迎的Material Theme。
+```
+
+### `使用`
+
+安装后直接可以使用，没什么太多可以说明的。
