@@ -1,4 +1,71 @@
-# 高等数学学习笔记
+# 高等数学背诵手册
+
+<br>
+
+## 零基础
+
+### `数学归纳法`
+
+![数学归纳法](../../images/aea70609201830de948b83dcff3d2e02255aee91d35cc076eb8e459aba515be7.png)
+
+<br>
+
+### `一元二次方程及其解`
+
+![一元二次方程及其解](../../images/8cffccd7f5dceff911173f19f9460fd12bbb164635664f26aa79dd9dd8606c97.png)  
+
+<br>
+
+### `重要的基本不等式`
+
+![基本不等式](../../images/47bf45977f7dd23d947e3d20ae5d996a885a9774dbd30539cc6bf06742677215.png)  
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## 极限重要公式
 
