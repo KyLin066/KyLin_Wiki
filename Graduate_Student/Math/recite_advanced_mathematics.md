@@ -12,17 +12,58 @@
 
 ### `一元二次方程及其解`
 
-![一元二次方程及其解](../../images/8cffccd7f5dceff911173f19f9460fd12bbb164635664f26aa79dd9dd8606c97.png)  
+![一元二次方程及其解](../../images/8cffccd7f5dceff911173f19f9460fd12bbb164635664f26aa79dd9dd8606c97.png)
 
 <br>
 
 ### `重要的基本不等式`
 
-![基本不等式](../../images/47bf45977f7dd23d947e3d20ae5d996a885a9774dbd30539cc6bf06742677215.png)  
-
-
+![基本不等式](../../images/47bf45977f7dd23d947e3d20ae5d996a885a9774dbd30539cc6bf06742677215.png)
 
 <br>
+
+### `幂函数、指数函数与对数函数`
+
+![幂函数](../../images/98347cafbfeaed7f25557e1c18c6bffa8a9972b581a2ff4025081a48651f7c97.png)
+
+![指数函数](../../images/08689cca202c20b61a421b073d4b3afb17effb039a176f85c0abcdd4d63a91c8.png)
+
+![对数函数](../../images/7495efa495a53509bc0df350ace8d71ae7d8a72a4d01e97b1bd921b036e816f0.png)  
+
+<br>
+
+### `三角函数与反三角函数`
+
+三角函数
+
+![三角函数](../../images/03ae0d0c2ae03c1deb5347b62bf2be446a2a892b273cbe91977d8ecbed375fe8.png)  
+
+1.正弦函数sin(x)的图像
+
+![正弦图像](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sin.svg/1280px-Sin.svg.png)
+
+2.余弦函数cos(x)的图像
+
+![余弦图像](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Cos.svg/1280px-Cos.svg.png)
+
+3.正切函数tan(x)的图像
+
+![正切图像](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Tan_proportional.svg/1024px-Tan_proportional.svg.png)
+
+4.余切函数cot(x)的图像
+
+![余切图像](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Cotan_proportional.svg/1024px-Cotan_proportional.svg.png)
+
+5.正割函数sec(x)的图像
+
+![正割图像](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Sec.svg/1280px-Sec.svg.png)
+
+6.余割函数csc(x)的图像
+
+![余割图像](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Csc.svg/1280px-Csc.svg.png)
+
+
+
 <br>
 <br>
 <br>
@@ -80,29 +121,7 @@
 
 ## `常用的三角函数图像`
 
-### 1.正弦函数sin(x)的图像
 
-![正弦图像](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sin.svg/1280px-Sin.svg.png)
-
-### 2.余弦函数cos(x)的图像
-
-![余弦图像](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Cos.svg/1280px-Cos.svg.png)
-
-### 3.正切函数tan(x)的图像
-
-![正切图像](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Tan_proportional.svg/1024px-Tan_proportional.svg.png)
-
-### 4.余切函数cot(x)的图像
-
-![余切图像](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Cotan_proportional.svg/1024px-Cotan_proportional.svg.png)
-
-### 5.正割函数sec(x)的图像
-
-![正割图像](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Sec.svg/1280px-Sec.svg.png)
-
-### 6.余割函数csc(x)的图像
-
-![余割图像](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Csc.svg/1280px-Csc.svg.png)
 
 <br>
 
