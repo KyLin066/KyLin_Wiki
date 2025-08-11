@@ -34,38 +34,60 @@
 
 ### `三角函数与反三角函数`
 
-三角函数
+`三角函数`
 
 ![三角函数](../../images/03ae0d0c2ae03c1deb5347b62bf2be446a2a892b273cbe91977d8ecbed375fe8.png)  
 
-1.正弦函数sin(x)的图像
+`1.正弦函数sin(x)的图像`
 
 ![正弦图像](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sin.svg/1280px-Sin.svg.png)
 
-2.余弦函数cos(x)的图像
+`2.余弦函数cos(x)的图像`
 
 ![余弦图像](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Cos.svg/1280px-Cos.svg.png)
 
-3.正切函数tan(x)的图像
+`3.正切函数tan(x)的图像`
 
 ![正切图像](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Tan_proportional.svg/1024px-Tan_proportional.svg.png)
 
-4.余切函数cot(x)的图像
+`4.余切函数cot(x)的图像`
 
 ![余切图像](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Cotan_proportional.svg/1024px-Cotan_proportional.svg.png)
 
-5.正割函数sec(x)的图像
+`5.正割函数sec(x)的图像`
 
 ![正割图像](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Sec.svg/1280px-Sec.svg.png)
 
-6.余割函数csc(x)的图像
+`6.余割函数csc(x)的图像`
 
 ![余割图像](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Csc.svg/1280px-Csc.svg.png)
 
+`反三角函数`
 
+![sin(x)的反函数](../../images/bb43bb80ab6097a4629e12e9df9a83f37c7db954e2646a86900285dd0231a4d6.png)
+
+![cos(x)的反函数](../../images/aaefcf9f10048ecc935a28b3f3c50e68c7f9044816cb3d251fa0d0f5f40df838.png)
+
+![tan(x)的反函数](../../images/4548c2b2bc22eb60a4e563b3351241d7a88077b900ae3b2ba802fab4c1623d8a.png)
 
 <br>
+
+### `等差数列`
+
+![等差数列](../../images/16f45ba9c5427f58d4093c406486450957b6fbfe0268298e4be47dbbc2264675.png)
+
 <br>
+
+### `等比数列`
+
+![等比数列](../../images/8586b6b222b4b98a9314a243d3c5199ced83ec55bc8d184852609edb34bd2f06.png)
+
+<br>
+
+### `直角坐标和极坐标的关系`
+
+![直角坐标和极坐标的关系](../../images/d7baaa80182b7ef8deae8064ceea84c15349d337abebf856c4592b49b40137a9.png)  
+
 <br>
 <br>
 <br>
