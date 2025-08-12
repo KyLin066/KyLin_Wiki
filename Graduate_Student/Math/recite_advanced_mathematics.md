@@ -86,11 +86,38 @@
 
 ### `直角坐标和极坐标的关系`
 
-![直角坐标和极坐标的关系](../../images/d7baaa80182b7ef8deae8064ceea84c15349d337abebf856c4592b49b40137a9.png)  
+![直角坐标和极坐标的关系](../../images/d7baaa80182b7ef8deae8064ceea84c15349d337abebf856c4592b49b40137a9.png)
 
 <br>
+
+## 第1讲 函数极限与连续
+
+### `指数函数的图像`
+
+![指数函数](../../images/4730489dd6dcdb72c9c2e1cb97d47019ac515d37fb3b73cfb07d13f65eb5d471.png)
+
 <br>
+
+### `对数函数的图像`
+
+![对数函数](../../images/366f6c856c276bd0977bd331dbe21065d6fe3d5ba04286d62c1420685fbcb08e.png)
+
 <br>
+
+### `反三角函数的图像`
+
+![反正弦函数与反余弦函数](../../images/44e45725290b2ebb8e4e50f70748749dd9c01fe82efab4431c3c6e30641f1fd6.png)
+
+![反正切函数与反切弦函数](../../images/ca1b7cfe46ea013fd7e6b07da16d14ec737683e30037f84d00de46cc6c36ce5f.png)
+
+![反正切函数与反切弦函数](../../images/608a80d71a40a72bf5ae71292571b7e2e29179be86d4ab4790868618be7099ca.png)
+
+<br>
+
+### `函数极限的定义`
+
+![函数极限的定义](../../images/edb34bfd743db39c5c56650abefb3630ad85c366b7e2f68528b9035bb6a22386.png)
+
 <br>
 <br>
 <br>
@@ -137,13 +164,6 @@
 ![无穷大的重要极限公式1](../../images/db8c1de6ca752d256b17f6df5049a699a5217e373cdebf1e18a0d56fe784cf17.png)  
 
 ![无穷大的重要极限公式2](../../images/936b2fde9b577ae454b44c2434500dcdec900ab77af8d326f6480375277cca08.png)  
-
-
-<br>
-
-## `常用的三角函数图像`
-
-
 
 <br>
 
