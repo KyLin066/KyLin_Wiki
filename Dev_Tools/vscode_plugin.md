@@ -120,12 +120,12 @@ Todo Tree 是 Visual Studio Code（VS Code）中一款强大的插件，可以�
 
 <br>
 
-## 5.Vira Theme
+## 5.Dracula Theme Official
 
 ### `摘要`
 
 ```
-Vira Theme是一款VS Code的主题插件，它的前身是广受欢迎的Material Theme。
+Dracula Theme Official是一款VS Code的主题插件，推荐使用这款插件的“Dracula Theme”主题。
 ```
 
 ### `使用`
