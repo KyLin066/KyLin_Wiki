@@ -134,10 +134,40 @@
 
 ### `洛必达法则`
 
-![洛必达法则](../../images/82e1393d668f013fb2ab40a5b098fafe43ab68948c29654a60b2bd09e6869772.png)  
+![洛必达法则](../../images/82e1393d668f013fb2ab40a5b098fafe43ab68948c29654a60b2bd09e6869772.png)
 
 <br>
+
+### `泰勒公式`
+
+![泰勒公式定义](../../images/7a93d072314264b6096958e68ed2b1c31d8380621f5c2fad6431979cebd0446d.png)
+
+![常用公式](../../images/320cfb15c3167e28a3152ac92052456bd5915216d1a16abfaa44d1c0f4d3f936.png)
+
 <br>
+
+### `七种未定式的计算`
+
+![七种未定式](../../images/a52ba8035a18540523758d93768227244e2f07b991fae6ee8470329a4d51db51.png)
+
+![未定式1](../../images/a9dfc75511d8b65cbe9a89b16ffd234776541de13c14c9e41236c1fb3ea8567d.png)
+
+![未定式2](../../images/77d9eb1edae98560b3301f5ad9273d952f5bea17e7e70980a63e84c42601c6f1.png)
+
+![未定式3](../../images/fd05abf29a5654e6c09a6b1a2621cb3425af7a55e68c268bb16be7d59c12b05b.png)
+
+![未定式4](../../images/c01a8e1b3adcf891250dda159687c96aa5adaf76b472f7f4c14e61c4246d79e6.png)
+
+![未定式5](../../images/732b4e6e9129f0ad9d79f8e8ed94dafeb4b2e62a1f63a4172ce063b3c34e3dfa.png)
+
+![未定式6](../../images/18464c53bbf7c587c7de1323e19b4375efe7319475dd6455751b19f3db418cb7.png)
+
+![未定式7](../../images/334419084b0cc93df3d3a424a9cb4ccaa8ff3d19ec2d4e6466b392e5ba469b5d.png)
+
+![简化公式](../../images/deb2e8b1b2848c8c075456f77f4be7d2ea942099aab0bab0f2f7e998fc555efa.png)
+
+![泰勒公式](../../images/5545592c21bec20aaa3e4ad0777e4b7e28037856c380232048c5006acd18548a.png)
+
 <br>
 <br>
 <br>
