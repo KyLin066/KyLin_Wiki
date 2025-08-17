@@ -200,7 +200,21 @@
 
 ### `压缩映射原理（简化版）`
 
-![压缩映射原理](../../images/daf61c39ca0d3b135fc6a1a2f6d561d4eb5426bfadd9cbf7c38fa29d658405b3.png)  
+![压缩映射原理](../../images/daf61c39ca0d3b135fc6a1a2f6d561d4eb5426bfadd9cbf7c38fa29d658405b3.png)
+
+<br>
+
+## 第3讲 一元函数微分学的概念
+
+### `f(x)与|f(x)|连续、可导的关系总结`
+
+![f(x)与|f(x)|连续、可导的关系总结](../../images/e934bae67d6e5b89d6ed904733a74b64c0689a8a97e599a3b9693082dee23f41.png)
+
+### `导数的几何意义`
+
+![导数的几何意义](../../images/ac389db38efe5869b37a8309da3221981ac06b4a5adb20912b02bc2ee1ac4403.png)  
+
+### `微分的概念`
 
 <br>
 <br>
@@ -280,9 +294,3 @@ TODO
 ### 1.反双曲正弦函数求导
 
 ![反双曲正弦函数求导](../../images/8899484878cef5cf0c0a43c54abd14f4ee96835defea08dd35b1881c853c13c7.png)  
-
-<br>
-
-## `f(x)与|f(x)|连续、可导的关系总结`
-
-![f(x)与|f(x)|连续、可导的关系总结](../../images/3b6aa105db5e0352a2d840dde69d6c7e27f5fe3d25ebdeaf52573deac046c3bd.png)  
