@@ -169,6 +169,39 @@
 ![泰勒公式](../../images/5545592c21bec20aaa3e4ad0777e4b7e28037856c380232048c5006acd18548a.png)
 
 <br>
+
+## 第2讲 数列极限
+
+### `数列极限的定义`
+
+![数列极限的定义](../../images/df6ada42841f4ddaa9d99b99ba87c39c787b42006e4ee8cd830777ac257f6aa4.png)
+
+<br>
+
+### `数列极限的性质`
+
+![定理1](../../images/8525fe9db123126d06d65fa6f1cadd44c48eea5efbf4adb317abf747eddc42be.png)
+
+![定理234](../../images/e172e29a5dfa85a9a118f5488ccb1b8a8af4a4532a9f7654c2d181bb075ef203.png)
+
+<br>
+
+### `极限四则运算规则`
+
+![极限四则运算规则](../../images/f41cd781a90c3d2a3f32c250d64028b123e3fc2f6698cdc8e7a3f762f84fe347.png)
+
+<br>
+
+### `海涅定理（归结原则）`
+
+![海涅定理](../../images/c279f4f37a7c2d8a8199ae5a427284147923d58204ef58b4a6e34f8f48075bf7.png)
+
+<br>
+
+### `压缩映射原理（简化版）`
+
+![压缩映射原理](../../images/daf61c39ca0d3b135fc6a1a2f6d561d4eb5426bfadd9cbf7c38fa29d658405b3.png)  
+
 <br>
 <br>
 <br>
