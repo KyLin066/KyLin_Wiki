@@ -210,11 +210,21 @@
 
 ![f(x)与|f(x)|连续、可导的关系总结](../../images/e934bae67d6e5b89d6ed904733a74b64c0689a8a97e599a3b9693082dee23f41.png)
 
+<br>
+
 ### `导数的几何意义`
 
-![导数的几何意义](../../images/ac389db38efe5869b37a8309da3221981ac06b4a5adb20912b02bc2ee1ac4403.png)  
+![导数的几何意义](../../images/ac389db38efe5869b37a8309da3221981ac06b4a5adb20912b02bc2ee1ac4403.png)
+
+<br>
 
 ### `微分的概念`
+
+![微分](../../images/85932d7e89c6d43b6364fdba30d8cf23219d33819f16d5bc7c302043138172d6.png)
+
+![的](../../images/1b0f7880bbf83d1d07dab2fbe4a3ab4897cc203f7aac01e67bad93a90f45a787.png)
+
+![概念](../../images/e202a19963a01dfc308849a7157f95c3196efc13cf38f4b9700b9a0bfe5b39fe.png)
 
 <br>
 <br>
