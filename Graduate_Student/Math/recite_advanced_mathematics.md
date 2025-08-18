@@ -206,6 +206,12 @@
 
 ## 第3讲 一元函数微分学的概念
 
+### `导数的定义`
+
+![导数的定义](../../images/ee7c1baeea6ea068948449135dc3f7761bbe6ed2a7f2614b07fc201371b3cc6e.png)
+
+<br>
+
 ### `f(x)与|f(x)|连续、可导的关系总结`
 
 ![f(x)与|f(x)|连续、可导的关系总结](../../images/e934bae67d6e5b89d6ed904733a74b64c0689a8a97e599a3b9693082dee23f41.png)
@@ -227,7 +233,26 @@
 ![概念](../../images/e202a19963a01dfc308849a7157f95c3196efc13cf38f4b9700b9a0bfe5b39fe.png)
 
 <br>
+
+## 第4讲 一元函数微分学的计算
+
+### `基本求导公式`
+
+![基本求导公式](../../images/ec64260dddc2f78a56433db7ce82d6ae2e8a551a4c428448a0c4374a6fabb86d.png)
+
 <br>
+
+### `导数的四则运算`
+
+![和、差、积的导数](../../images/e7e6f854131b15e7c010b1f87737e2bb18f770e9c7585aee6be41766da6c6771.png)
+
+![商的导数](../../images/bc175c9de5b63818f5adca35cb068fd0cfec61138b8b86db4142146c49fddacb.png)
+
+<br>
+
+### `反函数的二阶导数`
+
+
 <br>
 <br>
 <br>
