@@ -252,10 +252,36 @@
 
 ### `反函数的二阶导数`
 
+![反函数的二阶导数](../../images/abeaf8fd3dde6f6ae219bfb10c724314a6cc78e7ab7cb5d2286793ec3b1b1b91.png)
 
 <br>
+
+### `常用的高阶导数求导公式`
+
+![part 1](../../images/c2ec850bcc96bcbc19642be201108ddb3e6d4901c11761638e19813810562e19.png)
+
+![part 2](../../images/6d6fcdf30a3d003779f0d5036e3f5ac8178539e7074cbb93db1d646d4e2c529f.png)
+
 <br>
+
+### `莱布尼茨公式求导高阶导数`
+
+![莱布尼茨公式](../../images/77a02e137d79d93e401e1d804762b9580f6d8f4f1ad2b116435c2ab865bbae0e.png)
+
+```
+PS：莱布尼茨公式中的大C为杨辉三角的表示符号，其公式如下
+```
+
+![杨辉三角公式](../../images/9398630a42ba647f63f84a9480948e63fbf471740c3575ec2667fa39a533bfde.png)
+
 <br>
+
+### `泰勒公式求导高阶导数`
+
+![概念](../../images/21a816431847fc7170c92c94c54e3ab0ddf453f5351bbca8c5ad33670355d856.png)
+
+![常用公式](../../images/4cf312af8cd9b8a884982c65ec9d7b2050599b2395d23f7bee3095c4c05e171d.png)  
+
 <br>
 <br>
 <br>
