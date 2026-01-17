@@ -158,3 +158,47 @@ stay：逗留
 ② 过去分词（done）表示被动或完成（被动居多）；
 
 ③ 不定式（to do）表示目的或将来（目的居多）
+
+`用法：`非谓语动词除了谓语，可以充当句子中的任何成分
+
+`练习：`
+
+`中文：我的英语老师一句话都没说，就离开了。`
+
+翻译：My English teacher, saying nothing, left.
+
+`中文：铁锤在机场为女朋友送别，泪流满面。`
+
+翻译：Tiechui saw his girlfriend off at the airport, shedding puddles of tears.
+
+`中文：唐朝时期，灯笼在很多地方流行起来，它象征着生活美满、生意兴隆。`
+
+翻译：Lanterns became popular in many places in the Tang Dynasty, symbolizing a happy life and prosperous business.
+
+`中文：冬天来了，春天就不远了。`
+
+翻译：Winter approaching, spring will be around the corner.
+
+`中文：舞会被取消，大雁失望地回家了。`
+
+翻译：The dancing party cancelled, Dayan went home disappointedly.
+
+<br>
+
+`3.一句话能否没有动词`
+
+绝对不能，没有动词就没有谓语。当一句话需要动词又没有动词的时候怎么办呢？加be动词。
+
+`例子：`
+
+```
+其英语中没有那么多的固定搭配，比如be angry with指生某人的气，agree with指同意某人的观点，为什么一个加be，一个不加？
+
+这个不是固定搭配，是因为angry是形容词，而agree是动词，所以angry前要加be。
+```
+
+`总结：`
+
+```
+一个简单句中有且只能有一个有时态和语态的实义动词（词组）或系动词，并且充当谓语
+```
