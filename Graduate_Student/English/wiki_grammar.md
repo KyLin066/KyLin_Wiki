@@ -177,6 +177,10 @@ stay：逗留
 
 `中文：冬天来了，春天就不远了。`
 
+```
+PS：该句子就是常说的独立主格，可以理解为中文里两个句子主语不一致，其实就是非谓语动词。
+```
+
 翻译：Winter approaching, spring will be around the corner.
 
 `中文：舞会被取消，大雁失望地回家了。`
@@ -202,3 +206,239 @@ stay：逗留
 ```
 一个简单句中有且只能有一个有时态和语态的实义动词（词组）或系动词，并且充当谓语
 ```
+
+<br>
+
+**二、主语**
+
+`1.主语的成分`
+
+能作主语的成分：`代词`、`名词（短语）`、`非谓语动词（短语）`和`从句（引导词+句子）`
+
+`练习：`
+
+`中文：`乐观和勤奋是他的特点。
+
+`错译：`Optimistic and diligent are his characteristics.
+
+`解析：`形容词不能充当主语，改成名词或非谓语动词作主语。
+
+`正译1：`Optimism and diligence are his characteristics.
+
+`正译2：`Being optimistic and diligent are his characteristics.
+
+<br>
+
+`中文：`爱美是女生的天性。
+
+`错译：`Love beautiful is the nature of girls.
+
+`解析：`一个句子只能有一个动词，Love改成动名词，beautiful改成名词或非谓语动词。
+
+`正译1：`Loving beauty is the nature of girls.
+
+`正译2：`Loving being beautiful is the nature of girls.
+
+<br>
+
+`中文：`科幻故事总能使我着迷。
+
+`错译：`Science fiction story always fascinates me.
+
+`解析：`可数名词不能单独使用，变复数或加上the。
+
+`正译：`Science fiction stories always fascinate me.
+
+<br>
+
+`中文：`我的母亲是个很懦弱但是善良的人是显而易见的。
+
+`错译：`My mother is a very weak but kind person is obvious.
+
+`解析：`句子不能作主语，加引导词改成从句。
+
+`正译：`That my mother is a very weak but kind person is obvious.
+
+<br>
+
+`2.主语能否缺失`
+
+句子必须有主语和谓语，所以一句话不能没有主语。祈使句不是没有主语，而是为了加强语气，把主语暂时省略了而已。
+
+`无主语的解决方案`
+
+`(1)It作主语`
+
+It作主语一般都和天气有关
+
+外面很热。（It is hot outside.）
+
+此时的重庆很冷。（It is very cold in Chongqing now.）
+
+雨一直在下。（It keeps raining.）
+
+<br>
+
+`(2)There be句型`
+
+当句子有“有”字且没有主语时，就可以使用There be句型。
+
+她的头上有朵花。（There is a flower on her head.）
+
+有很多人喜欢我。（There are lots of people having affection for me.）
+
+有很多原因能解释我的观点。（There are numerous factors accounting for my perspective.）
+
+<br>
+
+`(3)被动语态`
+
+`例子：`
+
+```
+中文 ：必须指出坚持是成功的必备因素
+
+Persistent must be pointed out to be essential to success.
+```
+
+<br>
+
+`写作文时，不但无主语的句子可以写成被动句，一般的人或人称代词作主语的句子也可以改成被动句。`
+
+`中文：`越来越多的人意识到污染很严重。
+
+`翻译：`Pollution is thought to be serious by an increasing number of people.
+
+<br>
+
+`中文：`我们不应该盲目追星。
+
+`翻译：`Superstars should never be worshipped blindly.
+
+<br>
+
+`中文：`尊敬父母很重要。
+
+```
+PS：be of + 名词 = 形容词
+```
+
+`翻译：`Respecting parents is thought to be of great importance.
+
+<br>
+
+`中文：`政府应该采取措施去治理环境污染。
+
+`翻译：`Measure should be taken by the government to control environment pollution.
+
+<br>
+
+`(4)人称代词作主语`
+
+只有当以上三种方法都解决不了的时候，才使用人称代词作主语。
+
+`中文：`留得青山在，不怕没柴烧。
+
+`翻译：`As long as the green mountains are there, one need not worry about firewood.
+
+<br>
+
+`中文：`不到长城非好汉。
+
+`翻译：`He who does not reach the Great Wall is not a true man.
+
+<br>
+
+`练习：`
+
+`中文：河南有很多美食，比如烩面和胡辣汤。`
+
+翻译：There are many delicious foods in Henan, such as stewed noodles and spicy soup.
+
+<br>
+
+`中文：抽空去看看你的妈妈吧，虽然她可能以前做过一些错误的决定。`
+
+翻译：Time could be made to visit your mother although she made some bad decisions in the past.
+
+<br>
+
+`中文：南极越来越热了，很多企鹅都要迁徙了。`
+
+翻译：It's getting hotter and hotter in Antarctic, and many penguin are migrating.
+
+<br>
+
+**三、宾语**
+
+`1.宾语的成分`
+
+宾语的成分和主语是一致的
+
+`练习：`
+
+`中文：`他站在桌子上。
+
+`解析：`这是主谓结构，介词短语不能作宾语。
+
+`翻译：`He stood on the table.
+
+<br>
+
+`中文：`我喜欢在重庆。
+
+`错译：`I like in Chongqing.
+
+`解析：`介词短语不能作宾语。
+
+`翻译：`I like Chongqing.
+
+<br>
+
+`中文：`我的儿子才3岁，但是他已经懂得了善良和感恩。
+
+`错译：`My son is only 3 years old, but he already knows kind and grateful.
+
+`解析：`形容词不能作宾语，改成名词短语。
+
+`翻译：`My son is only 3 years old, but he already knows kindness and gratitude.
+
+<br>
+
+`中文：`我在思考恐龙还可能复活吗。
+
+`错译：`I am wondering can dinosaur come back to life.
+
+`解析：`首先，可是名词不能单独使用，其次，句子不能直接作宾语
+
+`翻译：`I am wondering whether dinosaurs can come back to life.
+
+<br>
+
+**四、表语**
+
+`1.表语的成分`
+
+能作表语的成分：`代词`、`名词（短语）`、`非谓语动词（短语）`、`从句（引导词+句子）`、`形容词（短语）`、`介词短语`和`副词`
+
+```
+PS：比主语和宾语的成分多了形容词、介词短语和副词，不过副词的情况极少用到，只有表示方位的时候才用（例如：up）。
+```
+
+`练习：`
+
+`中文：`她看起来很消极。
+
+`翻译：`She looks negative.
+
+<br>
+
+`中文：`我喜欢睡觉和吃，但是我的梦想是成为一个成功的人。
+
+`翻译：`I like sleeping and eating, but my dream is to become a successful man.
+
+<br>
+
+`中文：`我的观点是努力是成功的必备因素。
+
+`翻译：`My argument is that hard work is essential to success.
