@@ -489,8 +489,301 @@ TODO
 
 ```
 情态动词表示推测的四种常见用法：
-
-1.
+1. must have done：一定做过某事
+2. needn't have done：本没必要做某事，但是做了
+3. could have done：本能够做某事，但没有做
+4. should have done：本应该做某事，但没有做
 ```
 
-TODO 视频第20分钟
+<br>
+
+`4.助动词`
+
+`含义：`助动词是帮助谓语动词一起构成否定、疑问、时态和语态等的词
+
+`分类及用法：`
+
+`（1）be`
+
+```
+助动词be主要用来构成进行时和被动语态
+```
+
+I am studying in America now.  我现在在美国上学。
+
+He was punished for drunk driving.  他因为酒驾被惩罚了。
+
+<br>
+
+`（2）do`
+
+1）do有各种形式，比如did，does以及否定形式don't/didn't/doesn't，主要用来构成否定句和疑问句
+
+```
+Do you know Lisa well?  你很了解丽莎吗？
+```
+
+2）do/does/did可对谓语动词进行强调
+
+```
+Do be careful when crossing the streets.  过马路时一定要小心
+```
+
+3）do/does/did可帮助构成倒装句
+
+```
+Not a single mistake did he make.  他一个错误也没犯。
+```
+
+<br>
+
+`（3）have`
+
+```
+have的变形有has和had等，否定形式为hasn't/hadn't，主要用来帮助构成完成时
+```
+
+We haven't finished our work yet.  我们还没完成工作。
+
+<br>
+
+`（4）will/would`
+
+```
+will/would作助动词，后面加动词原形来帮助构成将来时
+```
+
+I will arrive in Beijing at five o'clock.  我将在五点到达北京。
+
+<br>
+
+**二、动词的时态**
+
+|  | `一般` | `完成` | `进行` | `完成进行` |
+| :---: | :---: | :---: | :---: | :---: |
+| **`现在`** | 一般现在时<br>do/does | 现在完成时<br>have done | 现在进行时<br>be doing | 现在完成进行时<br>have been doing |
+| **`过去`** | 一般过去时<br>did | 过去完成时<br>had done | 过去进行时<br>was/were doing | 过去完成进行时<br>had been doing |
+| **`将来`** | 一般将来时<br>will do | 将来完成时<br>will have done | 将来进行时<br>will be doing | 将来完成进行时<br>will have been doing |
+| **`过去将来`** | 一般过去将来时<br>would do | 过去将来完成时<br>would have done | 过去将来进行时<br>would be doing | 过去将来完成进行时<br>would have been doing |
+
+<br>
+
+`（1）一般现在时`
+
+**动词**：谓语动词do/does，否定don't/doesn't；系动词am/are/is，否定am not/aren't/isn't。
+
+**用法**：
+
+**1.表示现阶段的情况、状态和特征**
+
+陈述句：I work in Beijing.（我在北京工作。）
+
+否定句：I don't want to sleep now.（我不想现在就睡觉。）
+
+疑问句：Do you want a cup of tea?（你想要一杯茶吗？）
+
+**2.表示经常性或习惯性的动作**
+
+例：I always help others.（我总是帮助别人。）
+
+**3.表示客观事实和普遍真理**
+
+例：The sun rises from the east and sets from the west.（太阳从东方升起，西方落下。）
+
+<br>
+
+`（2）一般过去式`
+
+**动词**：谓语动词did，否定didn't；系动词was/were，否定wasn't/weren't。
+
+**用法**：
+
+**1.表示过去某个时间发生的动作或情况**
+
+陈述句：I bought a CD yesterday.（我昨天买了一张CD。）
+
+否定句：I didn't go to school yesterday.（我昨天没上学。）
+
+疑问句：Did he do his homework yesterday?（他昨天做作业了吗？）
+
+**2.表示过去习惯性的动作或存在状态**
+
+陈述句：I was a colleage student two years ago.（我两年前是个大学生。）
+
+否定句：I wasn't a teacher in the past.（我之前不是做老师的。）
+
+疑问句：Were they in the classroom just now?（他们刚才在教室里面吗？）
+
+<br>
+
+`（3）一般将来时`
+
+**动词**：谓语动词一般为will do，否定won't do；系动词为be + going to do/about to do/to do，否定be not + going to do/about to do/to do。
+
+**用法**：
+
+**1.表示将来某个时间会发生的动作**
+
+陈述句：I am going to go to Beijing by airplane.（我要飞北京。）
+
+否定句：He won't come to the party tonight.（他今晚不会来参加派对。）
+
+疑问句：Are you going to change your job?（你会换工作吗？）
+
+**2.表示将来某个时间会存在的状态**
+
+陈述句：You will be a teacher in the future.（你将来会成为一名教师。）
+
+否定句：He won't be there the next week.（他下周就不在那了。）
+
+疑问句：Will you be a doctor?（你以后会当医生吗？）
+
+<br>
+
+`（4）现在进行时`
+
+**动词**：谓语动词一般为be doing，否定be not doing。
+
+**用法**：
+
+**1.表示正在发生的或这段时间正在发生的动作**
+
+陈述句：I am listening to the music now.（我现在正在听音乐。）
+
+否定句：He isn't doing his homework now.（他现在没在做作业。）
+
+**2.现在进行时可以表示将来的含义**
+
+a.瞬时动词的进行时一定表将来的含义
+
+例：He is leaving.（他要离开了。）
+
+b.持续动词的进行时只有在有将来的时间状语时或在将来语境中才表将来
+
+例：I am traveling to Beijing next month.（下个月我要去北京旅行。）
+
+**3.现在分词用于现在进行时和现在分词作表语的区别**
+
+a.如果现在分词表示现在正在发生的动作，那肯定是现在进行时
+
+例：He is playing computer game now.（他现在正在玩电脑游戏。）
+
+注：说明主语正在打游戏，是现在进行时
+
+b.如果现在分词表示主语的特征、性质等，那该句一定是主系表结构
+
+例：The news is disturbing.（这新闻令人不安。）
+
+注：说明主语令人不安，为形容词，是主系表结构
+
+<br>
+
+`（5）现在完成时`
+
+**动词**：谓语动词have/has done，否定have/has not done；系动词have/has been，否定have/has not been。
+
+**用法**：
+
+**1.表示动作到现在为止已经完成或刚刚完成，强调对现在产生的影响**
+
+陈述句：I have already finished my homework.（我已经完成我的作业了。）
+
+否定句：He hasn't handed in his homework yet.（他到现在也没交作业。）
+
+疑问句：Have you found your lost phone?（你找到你丢失的手机了吗？）
+
+**2.表示从过去某时刻开始，持续到现在的动作或情况，并且有可能会继续持续下去。此时经常用持续性动词**
+
+陈述句：Great changes have taken place in this country in the last ten years.（过去十年这个国家发生了翻天覆地的变化。）
+
+否定句：I haven't seen him since I met him last time.（上次见面后我就没再见过他了。）
+
+一般疑问句：Have you worked here since you came here?（你从来了就在这一直工作吗？）
+
+特殊疑问句：How long have you worked in this company?（你在这家公司工作多久了？）
+
+**3.一般过去时和现在完成时的区别**
+
+a.时间概念
+
+一般过去时仅仅表示过去的动作或状态，与现在无关
+
+例：I lived here in ten years ago.（我十年前住在这里。）
+
+现在完成时强调动作从过去某一时间一直持续到现在，这个动作有可能持续下去
+
+例：I have lived here for ten years.（我在这里住了十年了。）
+
+b.时间的表达方式
+
+一般过去时通常有过去的具体时间，或句子中有“过”、“了”等时间副词
+
+例：He went to the cinema yesterday.（他昨天去看电影了。）
+
+在汉语中听到“已经、曾经、还没”就用现在完成时
+
+例：He has not had lunch yet.（他还没吃午饭。）
+
+c.强调作用
+
+一般过去时强调做过某件事
+
+例：I read this book.（我看过这本书了。）
+
+现在完成时强调已经完成某件事
+
+例：I have read this book.（我已经看完这本书了。）
+
+**4.have/has been to和have/has gone to的区别**
+
+have/has gone to表示去而未归
+
+例：She has gone to America. She can't come to your party tomorrow.（她去美国了，明天不能来参加你的聚会了。）
+
+have/has been to表示去了已经回来了
+
+例：I have been to Hongkong before, so I know the way well.（我去过香港，所以认识路。）
+
+`（6）过去完成时` 
+
+TODO
+
+<br>
+
+**三、动词的语态**
+
+TODO
+
+<br>
+
+### `第五节·简单句的考点分析`
+
+**一、写作**
+
+`中文：`坐在我前面的那个男生看起来很靠谱。
+
+`翻译：`The boy who is sitting in front of me looks pretty reliable.
+
+`简单句版本：`A boy is sitting in front of me. He looks pretty reliable.
+
+<br>
+
+`中文：`温室里的花朵不能经受风雨，这个事实表明孩子不应该被溺爱。
+
+`翻译：`The fact that the flower in the greenhouse fails to endure any storms indicates that kids should never be spoiled.
+
+`简单句版本：`The flower in the house cannot suffer storms. We should not protect our children too much.
+
+<br>
+
+`总结：`所有的复合句都是由简单句构成的，写不出高级的复合句，就先用简单句来代替。句子同单词一样，写正确最重要。
+
+<br>
+
+**二、长难句分析**
+
+```
+分析长难句，第一步就是找一句话中的谓语，也就是动词。如果这是个主从复合句，内含多个动词，就找主句的谓语动词。
+从句的谓语动词前通常有引导词，而主句的谓语动词前没有引导词。
+简单句也可能是长难句。
+```
