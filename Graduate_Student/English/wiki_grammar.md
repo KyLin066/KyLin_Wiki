@@ -841,3 +841,82 @@ Many people being willing to fight for their dreams, others die in their sleep.
 `翻译：`She is kind and considerate and we become companions in misfortune.
 
 `解析：`and是并列连词，第一个and连接两个形容词，第二个and连接两个简单句。
+
+<br>
+
+### `第二节·连词分类及区别`
+
+`1.常见的并列连词`
+
+```
+1）平行关系：
+and, not only……but also……, both……and……, neither……, nor……
+2）转折关系：
+but, while, yet, whereas
+3）选择关系：
+or, whether……or not……, either……or……
+4）因果关系：
+because, since, for, so
+```
+
+<br>
+
+`2.表示逻辑关系的其他词（副词和介词短语）`
+
+```
+1）平行关系：
+equally, similarly, likewise，simultaneously, at the same time, in the meanwhile, in the same way
+2）递进关系：
+then, also, besides, furthermore, moreover, additionally, subsequently, in addition
+3）转折关系：
+however, nevertheless, nonetheless, conversely, contrarily, unfortunately, unexpectedly, on the contrary,
+by contrast, on the other hand
+4）选择关系：
+alternatively
+5）因果关系：
+因为：because of, be responsible for, due to, owing to, thanks to
+所以：thus,hence, consequently, therefore, as a result, as a consequence
+6）总结关系：
+on the whole, all in all, overall, in conclusion summary/general, generally (speaking), as a whole, mainly,
+substantially, to sum up, to conclude, in short/brief, in a word
+7）表示引出新对象（这类词没有连词，主要是一些介词和介词短语）：
+关于：about = concerning = regarding = with regard to= as for/to = in respect of
+就……而论，在……方面：interms of
+```
+
+<br>
+
+`3.表达相同含义的连词与其他逻辑关系词的区别`
+
+认真比较以下两组句子：
+```
+1）He failed many times, but he didn't despair.
+或 He failed many times but he didn't despair.
+2）He failed many times. However, he didn't despair.
+```
+
+比较上面两组例句，我们可以得出结论：使用连词时，句子之间加逗号或不加逗号均可。
+
+但是使用副词或介词短语表示上下文逻辑关系时，句子之间不能用逗号，因为逗号不能连接两个句子，副词或介词短语也不能连接两个句子。
+
+那如何解决这个问题呢?答案是:把逗号变句号。有时也可以在副词或介词短语前加连词and。
+
+`例子 ——`
+
+`中文：`天空没有痕迹，但是鸟儿已经飞过。
+
+`翻译1：`There were no trails in the sky, but the birds had flown away.
+
+`翻译2：`There were no trails in the sky. However, the birds had flown away.
+
+`解析：`出现“但是”，可以考虑用表转折关系的并列连词but连接，写成并列句；也可以分成两个独立的句子，用副词来表达上下句逻辑。
+
+<br>
+
+`中文：`平庸的人用热闹填补空虚，优秀的人则以独处成就自己。
+
+`翻译1：`Ordinary persons fill the void with excitement, yet these excellent ones accomplish themselves by solitude.
+
+`翻译2：`Ordinary persons fill the void with excitement. By contrast, these excellent ones accomplish themselves by solitude.
+
+`解析：`该句前后两个分句表达方向不同，可以考虑用表转折关系的并列连词yet连接，写成并列句；也可以分成两个独立的句子，用表示转折的介词短语来表达上下句逻辑。
