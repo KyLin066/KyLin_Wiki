@@ -91,7 +91,9 @@
 | `表示表象` | seem，appear |
 | `表示结果` | prove |
 
->`PS：有些动词既可以作系动词，又可以作实义动词，作实义动词时意思为：`
+```
+PS：有些动词既可以作系动词，又可以作实义动词，作实义动词时意思为：
+```
 
 get：得到
 
@@ -481,9 +483,10 @@ PS：比主语和宾语的成分多了形容词、介词短语和副词，不过
 分类：
 TODO
 
-> `PS：当情态动词表推测、可能性时，must > can > could > may > might。`
-> 
-> `其中，考研中还经常考察"情态动词表示对过去的推测"这一考点，即情态动词 + have done。`
+```
+PS：当情态动词表推测、可能性时，must > can > could > may > might。
+其中，考研中还经常考察"情态动词表示对过去的推测"这一考点，即情态动词 + have done。
+```
 
 `总结 ——`
 
@@ -920,3 +923,146 @@ substantially, to sum up, to conclude, in short/brief, in a word
 `翻译2：`Ordinary persons fill the void with excitement. By contrast, these excellent ones accomplish themselves by solitude.
 
 `解析：`该句前后两个分句表达方向不同，可以考虑用表转折关系的并列连词yet连接，写成并列句；也可以分成两个独立的句子，用表示转折的介词短语来表达上下句逻辑。
+
+<br>
+
+### `第三节·并列句的考点分析`
+
+**一、写作**
+
+```
+写作的时候，只要上下句之间有逻辑关系，就要用逻辑关系词（连词、副词和介词短语）。
+```
+
+`例子 ——`
+
+`中文：`有朋自远方来，不亦乐乎？
+
+`翻译1：`Friends come from afar. Therefore, it is a joy for me.
+
+`翻译2：`Is is not a joy to have friends coming from afar.
+
+`解析：`翻译此句时可以先按照意群断句，然后添加副词Therefore来表达清楚两个分句之间暗含的逻辑关系；也可以译成一个简单句，it为形式主语，动词不定式为真正的主语。
+
+<br>
+
+`中文：`还记得那天吗？我没有通过大学英语四级考试，一个人在雨中哭泣，你走过来，拍拍我的肩膀，告诉我人生没有终点。
+
+`翻译：`Do you still remember that day? I failed to pass CET-4. As a result, I was shedding tears in the rain. At the same time, you camp up to me, and then tapped me on the shoulder, telling me "there is no destination in life."
+
+`解析：`译文添加了逻辑关系词，读起来顺滑流畅，逻辑十分清晰。
+
+```
+上面这段话，可以作为感谢信的模板使用。
+```
+
+<br>
+
+**二、长难句分析**
+
+`1.并列连词前后内容的对应关系`
+
+（1）词性对应：
+
+```
+并列连词前后的单词词性、名词单复数、动词的时态和语态等一般要求要一致，也就是说，并列连词前是什么，并列连词后也要有相同的词性、单复数、时态和语态。当并列连词连接两个以上的并列成分，且中间的多个并列连词相同时，通常只保留最后一个并列连词，而把前面相同的并列连词替换成逗号;如果中间的多个并列连词不同，则不能替换。
+```
+
+`例子 ——`
+
+`中文：`他打开门，走了进去，放下了书包。
+
+`翻译：`He opened the door, walked in and put down his schoolbag.
+
+`解析：`本句包含三个动作，前两个动作用逗号隔开，在最后一个动作前加and。根据词性对应原则，连词前后的时态必须一致，第一个动词opened是动词的过去式，那么另外两个动词也必须是动词的过去式，即walked和put。
+
+<br>
+
+（2）成分对应：
+
+```
+并列连词应连接相同性质的句子成分，但有时候可能省略与前面成分相同的部分。
+```
+
+`例子 ——`
+
+`中文：`我女朋友对我所说的和我所做的都很满意。
+
+`翻译：`My girlfriend is pleased with what I have said and what I have done.
+
+`解析：`并列连词and连接两个宾语从句，前后结构一致。
+
+<br>
+
+`2.并列句中的省略现象`
+
+（1）省略的成分：
+
+```
+前面第一章已经讲过，英语是形合的语言，也就是外观美丽，特别注重句子的逻辑性和结构性因此，接下来我们来学习一下，在英语句子中应当如何避免重复。以并列句为例，当连词前后有相同内容时，连词后就不再重复了，这样就出现了并列句的省略。虽然省略了重复的内容，但是连词前后的结构依然是对应的。我们先来看一下，并列句一般会省略什么成分。
+```
+
+①省略主语
+
+并列连词后的主语与前面的句子主语一致时，并列连词后的主语可以省略。例如:
+
+`中文：`她虽然穷，但有着远大的志向。
+
+`翻译：`She is poor, but has great ambitions.
+
+`解析：`并列连词but连接了两句话，这两句话的主语都是She。连词后的主语与前面的主语一致，此时可以将连词后的主语省略。
+
+<br>
+
+②省略be动词
+
+并列连词前后句子的主语不同，但谓语动词都是be动词时，可以省略并列连词后面句子的be动词。例如:
+
+`中文：`它的科学家是世界上最好的，它的工人是世界上最熟练的。
+
+`翻译：`SheIts scientists were the world's best, and its workers the most skilled.
+
+`解析：`并列词and连接了两句话，这句的主分别是Its scientistsits workers。然并列连词前后主语不同，但谓语动词是be动词，此时可以将后面句子的be动省略。句子补全即"Its scientists were the world's best, and its workers were the most skilled."
+
+<br>
+
+③省略主语和谓语
+
+并列连后的主谓和前面的主谓一致时，可以将后面句子中的主谓都省略。例如:
+
+`中文：`这个消息让约翰很开心，但是却让玛丽很伤心。
+
+`翻译：`The news made John happy but Mary sad.
+
+`解析：`并列连词but连接两句话，but后面与前面"主谓宾+宾补"的句子主谓一致，所以but后面的句子省略了主语The news与谓语made，只有宾语Mary和宾语补语sad。
+
+<br>
+
+④省略重复的其他内容
+
+例如:
+
+`中文：`与此同时，这项政策并不能确保学生得到的家庭作业是有意义的或适合他们年龄和科目的，也不能确保老师布置的作业没有超过他们愿意检查和批改的程度。
+
+`翻译：`Meanwhile, this policy does nothing to ensure that the homework students receive is meaningful orappropriate to their age and the subject, or that teachers are not assigning more than they are willing toreview and correct.
+
+`解析：`连词or后面省略了和前面句子成分相同的to ensure，补充完整就是to ensurethatteachers are not assigning more than they are willing to review and correcto
+
+<br>
+
+（2）如何找到省略的内容：
+
+`中文：`读书使人充实，讨论使人机智，写作使人严谨。
+
+`翻译：`Reading makes a full man, conference a ready man, and writing an exact man.
+ 
+`解析：`如果直接翻译这句话，那就是:读书使人充实，讨论一个机智的人，写作一个严谨的人。很明显，英文译成中文时，句意让人摸不着头脑。因为句中出现了连词，所以我们第一反应应该是会有省略。我们需要找到省略的内容，补充后，再做翻译。给这句话补充上省略的内容，完整的句子是"Reading makes a full man, conference makes a ready man, and writing makes an exact man."
+
+`总结：`
+
+```
+寻找一个句于所省略的内容，可分为以下三步：
+首先，找并列迹词。一句话有省略时，省略通常会发生在并列连词的后面。
+其次，分析迹词前后的成分。根据前面讲的成分对应原则，并列连词后面具有的成分在并列连词前面遗都能找到。
+最后，找出省略成分。并列连词前面有而并列连词后面没有的成分便是省略的成分和内容。
+```
