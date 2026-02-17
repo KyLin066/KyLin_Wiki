@@ -1066,3 +1066,43 @@ substantially, to sum up, to conclude, in short/brief, in a word
 其次，分析迹词前后的成分。根据前面讲的成分对应原则，并列连词后面具有的成分在并列连词前面遗都能找到。
 最后，找出省略成分。并列连词前面有而并列连词后面没有的成分便是省略的成分和内容。
 ```
+
+<br>
+
+`3.综合运用`
+
+`例子——`
+
+`长难句1：`Under modern conditions, this requires varying measures of centralized control and hence the helpof specialized scientists such as economists and operational research experts.
+
+`结构分析：`第一步:找谓语。本句只有一个动词requires，因此它便是本句的谓语。一旦确定了谓语，主语、宾语就呈现出来了。本句从总体上来看是主谓宾结构:this requiresvaryingmeasures。第二步:找并列连词。本句含有两个并列连词and。第二个and连接的是名词(词组)economists与operational research experts，不包含省略。我们再来看看第一个and后是不是有省略。and后的成分是“名词短语(the help)+定语(ofspecialized...experts)”，我们推测and前的分句也应该有“名词(短语)+定语”，显然在this requires varying measures of centralized control 这句中,"名+语” 就是varying measures + of centralized control.
+
+`词汇释义：`
+
+require v.需要，要求
+
+economist n.经济学家
+
+operational research 运筹学
+
+`参考译文：`在现代条件下，这需要不同程度的中央控制措施，从而也需要诸如经济学和运筹学等领域的专家的帮助。
+
+<br>
+
+`长难句2：`As families move away from their stable community, their friends of many years, and theirextended family relationships, the informal flow of information is cut off, and with it the confidence that information will be available when needed and will be trustworthy and reliable.
+
+`结构分析：`第一步:找谓语。句中有4个动词（词组）：move，is cut off，will be 以及willbe。move前面有引导词As，两个will be前面有引导词that，所以它们是从句的谓语;is cut of则是主句的谓语。第二步:找并列连词。该句共出现4个and，第一个and前后并列多个名词词组，它们结构一致，很好辨析。第二个and后的with it（表示随之）是插人语，与前面的the informal flow... is cut off为递进关系。and后的成分是“名词短语（the confidence）+同位语从句”的结构，and前面是“名词短语（the informal flow）+定语（of information）+谓语（is cut off）"的结构。并列连词前面有而后面没有的成分，通常是省略的内容，很显然这里and后省略了is cut off，补充完整后就是withit the confidencethat... reliable is cut off。第三个and后面是系表结构，前面也有系表结构（will beavailable），所以很明显省略了共同主语informnation。第四个and只是连接两个形容词，没有省略。上可知,本句干为the informal flow of information is cut off, and with it the confidence...（is cut off）.
+
+`词汇释义：`
+
+extended family 大家庭（几代同堂的家庭）
+
+trustworthy adj.可靠的,可信赖的
+
+reliable adj.可靠的，可信赖的
+
+`参考译文：`随着家庭搬离他们稳定的社区、远离多年的朋友和大家庭的种种关系，非正式的信息交流就被切断了;随之而去的是对在需要时就能获得可靠和值得信赖的信息的信心。
+
+```
+PS：长难句2的分析难度可以说是考研难度的天花板咯
+```
