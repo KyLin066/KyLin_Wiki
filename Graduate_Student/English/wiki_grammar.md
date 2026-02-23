@@ -1106,3 +1106,28 @@ reliable adj.可靠的，可信赖的
 ```
 PS：长难句2的分析难度可以说是考研难度的天花板咯
 ```
+
+<br>
+
+`长难句3：`Until these issues are resolved, a technology of behavior will continue to be rejected, and with itpossibly the only way to solve our problems.
+
+`结构分析：`第一步：找谓语。句中有2个动词(组):are resolved,will continue,areresolved 前面有引导 Until, 所以它是从的谓语。首的 Until these issues are resolved是时间状语从句。由此得出，will continue是主句的谓语。第二步：找并列连词。该句仅有一个and，and后的成分为"介词短语(with it)+副词(possibly)+名词语(the only way)+不定式短语(to solve our problems ),和 and 前对比,a technology of behavior(名短语作主语)will continue (谓语)to be rejected(不定式作宾语)，省略了谓语 will continue与 to be rejected, 后 with it possibly the only way to solve our problems will continue to be rejected.   
+
+`词汇释义：`
+
+resolve v.解决;下决心
+
+reject v.拒绝;排斥
+
+`参考译文：`除非这些问题得以解决，否则行为技术将会继续受到排斥，并且解决我们问题的唯一方法可能也随之继续受到排斥。
+
+<br>
+
+`总结：`
+
+```
+在翻译包含并列成分及省略成分的句子时，我们可以按照上面我们分析句子的步骤走。
+第一步：找谓语。通过找出句子中全部的动词(词组)，用排除的方式，找出句子主干的谓语，也就能找出句子的主干。
+第二步：找出并列连词。通过分析并列连词前后的成分，结合并列连词前后的一致性原则，确定哪些成分是并列的，哪些成分是省略的。
+第三步：补充省略的成分并翻译句子。
+```
