@@ -1131,3 +1131,121 @@ reject v.拒绝;排斥
 第二步：找出并列连词。通过分析并列连词前后的成分，结合并列连词前后的一致性原则，确定哪些成分是并列的，哪些成分是省略的。
 第三步：补充省略的成分并翻译句子。
 ```
+
+<br>
+
+## `第三章·名词（短语）和名词性从句`
+
+### `第一节·名词（短语）`
+
+**一、名词（短语）能作什么成分**
+
+名词短语分别可以作主语、宾语、表语和同位语。
+
+<br>
+
+**二、什么是同位语**
+
+同位语是用来解释或补充说明名词（代词）的成分，通常直接跟在名词之后。
+
+<br>
+
+**三、什么可以作同位语**
+ 
+`1. 代词作同位语`
+
+We all have strengths and weaknesses.
+
+`翻译：`我们所有人都有优点和缺点。
+
+`解析：`代词all作We的同位语。
+
+<br>
+ 
+`2. 名词（短语）作同位语`
+
+Tiechui, a handsome boy, never fails to fascinate me.
+
+`翻译：`铁锤，一个帅气的男生，总是能让我着迷。
+
+`解析：`名词短语 a handsome boy 作 Tiechui 的同位语。
+
+<br>
+ 
+`3. 动词 -ing 形式短语和动词不定式短语作同位语`
+
+① I enjoy this sport, playing basketball.
+
+`翻译：`我喜欢篮球这项运动。
+
+`解析：`动词 -ing 形式短语作 sport 的同位语。
+
+<br>
+
+② He has a dream to travel round the world.
+
+`翻译：`他有一个梦想——环游世界。
+
+`解析：`动词不定式短语 to travel round the world 作 a dream 的同位语。
+
+<br>
+ 
+`4. 从句作同位语`
+
+The news that our volleyball team had won the championship encouraged us all greatly.
+
+`翻译：`我们排球队赢得冠军的消息大大地鼓舞了我们所有人。
+
+`解析：`that 引导的从句作 The news 的同位语。
+
+<br>
+
+**四、同位语在写作中的应用**
+
+我们在作文中写一些抽象名词（短语）时，为了做出进一步解释，可以尝试给它们加同位语，前后通常用逗号隔开。例如：
+
+<br>
+
+`例1`
+
+“素颜”句：Persistence is the key to success.
+
+`翻译：`坚持是成功的关键。
+
+同位语“化妆”句：Persistence, a positive attitude, is the key to success.
+
+`翻译：`坚持，一种积极的态度，是成功的关键。
+
+`解析：`我们用一个名词短语 a positive attitude 来详细解释什么是坚持，让句子更加丰满，富于变化！
+
+<br>
+
+`例2`
+
+“素颜”句：The Palace Museum receives tens of millions of tourists every year.
+
+`翻译：`故宫博物院每年接待上千万的游客。
+
+同位语“化妆”句：The Palace Museum, one of the famous tourist attractions in China, receives tens of millions of tourists every year.
+
+`翻译：`故宫博物院，中国著名旅游景点之一，每年接待游客上千万。
+
+`解析：`我们用 one of the famous tourist attractions in China 来解释说明故宫博物院，让句子更有层次感。
+
+<br>
+
+`例3`
+
+“素颜”句：We should support our domestic products.
+
+`翻译：`我们应该支持国货。
+
+同位语“化妆”句：We, Chinese customers, should support our domestic products.
+
+`翻译：`我们中国的消费者应该支持国货。
+
+`解析：`我们用 Chinese customers 来补充说明“We”。
+
+<br>
+
+### `第二节·名词性从句概述`
