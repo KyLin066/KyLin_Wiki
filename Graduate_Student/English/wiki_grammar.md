@@ -1249,3 +1249,71 @@ The news that our volleyball team had won the championship encouraged us all gre
 <br>
 
 ### `第二节·名词性从句概述`
+
+**一、什么是从句**
+
+一句话中的某些成分由类似句子的主谓结构担任，称为从句。从句是相对于主句而言的，从句即从属分句，它不能独立存在，必须依附于主句而存在。
+
+<br>
+
+**二、什么是名词性从句**
+
+名词在句子中能充当什么成分，从句在句子中就也能充当什么成分，这就是名词性从句。名词性从句一共包括四类：`主语从句`、`宾语从句`、`表语从句`和`同位语从句`。
+
+<br>
+
+**三、名词性从句的引导词**
+
+我们先试着翻译几个句子。
+
+`1.铁锤能赢得这场比赛是肯定的。`
+
+`错译：`Tiechui will win the competition is certain.
+
+`解析：`“Tiechui will win the competition.”是一个完整的句子，不能直接作主语。我们可以在Tiechui will win the competition前面加一个引导词That，把它变成从句。
+
+`正译：`That Tiechui will win the competition is certain.
+
+<br>
+
+`2.铁锤能否赢得这场比赛依然是一个问题。`
+
+`错译：`Will Tiechui win the competition is still a question.
+
+`解析：`“Will Tiechui win the competition”是一个完整的句子，不能直接作主语，可以根据句意在前面加上一个引导词Whether，把它变成一个从句，同时注意将从句的语序调整为陈述语序。
+
+`正译：`Whether Tiechui will win the competition is still a question.
+
+<br>
+
+`3.铁锤为什么能赢得这场比赛是显而易见的。`
+
+`错译：`Why can Tiechui win the competition is self-evident.
+
+`解析：`疑问词引导的从句，需要注意把从句的语序调整为陈述语序。
+
+`正译：`Why Tiechui can win the competition is self-evident.
+
+<br>
+
+---
+
+上面的例句中，引导词分别使用了that、whether与why。引导词都不同，到底怎么使用？什么时候用that、whether或是why？那请你先思考，这三个主语从句有什么区别。
+
+铁锤能赢得这场比赛。→陈述句
+
+铁锤能否赢得这场比赛？→一般疑问句
+
+铁锤为什么能赢得这场比赛？→特殊疑问句
+
+<br>
+
+综上，名词性从句的引导词按照从句的类型来划分，一共分成三类：
+
+`（1）当从句是陈述句时用that。需要注意的是，that在从句中不充当成分，也没有实义。在不影响句子意思的情况下，宾语从句的引导词that通常可以省略。`
+
+`（2）当从句是一般疑问句时用whether/if。whether/if在从句中不充当成分，但意思为“是否”。需要注意的是，whether可以引导所有的名词性从句，而if只能引导宾语从句。`
+
+`（3）当从句是特殊疑问句时用特殊疑问词。常见的连接副词有：when、where、why、how；常见的连接代词有：who、whom、what、which、whose。这些特殊疑问词一般都有固定的意思，不能省略。`
+
+`总结：`除了使用不同类型的引导词以外，同学们还需要格外注意：所有的从句（包括后面会学到的定语从句、状语从句）都应该是陈述语序，也就是“引导词+主语+谓语”的顺序。
