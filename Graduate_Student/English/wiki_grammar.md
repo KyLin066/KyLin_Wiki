@@ -1317,3 +1317,69 @@ The news that our volleyball team had won the championship encouraged us all gre
 `（3）当从句是特殊疑问句时用特殊疑问词。常见的连接副词有：when、where、why、how；常见的连接代词有：who、whom、what、which、whose。这些特殊疑问词一般都有固定的意思，不能省略。`
 
 `总结：`除了使用不同类型的引导词以外，同学们还需要格外注意：所有的从句（包括后面会学到的定语从句、状语从句）都应该是陈述语序，也就是“引导词+主语+谓语”的顺序。
+
+<br>
+
+`练习——`
+
+`中文：`我想知道人类为什么生活在地球上。
+
+`翻译：`I wonder <u>why human beings live on the earth</u>.
+
+`解析：`根据句意选用 why 引导宾语从句，从句的语序为陈述语序。
+
+<br>
+
+`中文：`外星人存在与否真的很重要。
+
+`翻译：`<u>Whether aliens exist</u> is really vital.
+
+`解析：`根据句意选用 Whether 引导主语从句，从句的语序为陈述语序。
+
+<br>
+
+`中文：`当你身处低谷时，周围的人会对你很冷漠是显而易见的。
+
+`翻译：`<u>That people are quite indifferent to you when you are at a low point</u> is self-evident.
+
+`解析：`根据句意选用 That 引导主语从句。
+
+<br>
+
+`中文：`他们当初为什么离开河南去新疆是一个秘密。
+
+`翻译：`<u>Why they left Henan for Xinjiang at the beginning</u> is a secret.
+
+`解析：`根据句意选用 Why 引导主语从句，从句的语序为陈述语序。
+
+<br>
+
+`中文：`读书能净化我们的灵魂是毋庸置疑的。
+
+`翻译：`<u>That reading can purify our souls</u> is beyond dispute.
+
+`解析：`根据句意选用 That 引导主语从句。
+
+<br>
+
+`中文：`总有一天你会发现，你的事业、亲情和友情都比爱情重要。
+
+`翻译：`Someday, you will find <u>that your career, kinship and friendship are more important than love</u>.
+
+`解析：`根据句意选用 that 引导宾语从句，that 可以省略。
+
+<br>
+
+`中文：`我正在思考我是否应该放弃考研。
+
+`翻译：`I am reflecting <u>whether I should give up the postgraduate entrance examination</u>.
+
+`解析：`根据句意选用 whether 引导宾语从句，从句的语序为陈述语序。
+
+<br>
+
+`中文：`很多人认为成功就是不惜任何代价挣到很多钱。
+
+`翻译：`Many people think <u>that success means making a lot of money at all costs</u>.
+
+`解析：`根据句意选用 that 引导宾语从句，that 可以省略。
