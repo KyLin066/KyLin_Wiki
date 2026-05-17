@@ -1383,3 +1383,96 @@ The news that our volleyball team had won the championship encouraged us all gre
 `翻译：`Many people think <u>that success means making a lot of money at all costs</u>.
 
 `解析：`根据句意选用 that 引导宾语从句，that 可以省略。
+
+<br>
+
+### `第三节·名词性从句的考点分析`
+
+**一、写作**
+
+在考研英语写作中，主语从句和同位语从句是高分句型。
+
+`1.主语从句`
+
+我们来看几个例子。
+
+`中文：`她成功地交到了朋友，这让我很高兴。
+
+`翻译：`That she has succeeded in making friends makes me happy.
+
+<br>
+
+`中文：`女士们总是对的，这是一个常识。
+
+`翻译：`That ladies are always right is common knowledge.
+
+或 It is common knowledge that ladies are always right.
+
+<br>
+
+`写作常用的主语从句满分句型：`
+
+```
+（1）It has been widely accepted that... 人们普遍认为 / 众所周知……
+（2）It is self-evident that... …… 是显而易见的。
+（3）It is common knowledge that... …… 是常识。
+（4）It is generally agreed that... 人们普遍认为 / 众所周知……
+（5）It is my belief that... = I think that... 我认为……
+（6）It is universally acknowledged that... 人们普遍认为 / 众所周知……
+（7）It has been found that... 人们已经发现……
+（8）It is beyond dispute that... …… 是毋庸置疑的。
+```
+
+<br>
+
+`中文：`积极的心态对于成功至关重要，这是常识。
+
+`翻译：`It is common knowledge that a positive attitude plays a key role in success.
+
+<br>
+
+`中文：`我认为污染这个话题现在应该引起人们的关注。
+
+`翻译：`It is my belief that the issue of pollution should be brought into the limelight under modern conditions.
+
+<br>
+
+`总结：`上述这些常用表达都可以应用到作文中，但是不要太多，一篇作文用一两次就很好了。比如，不能每个句子都写成 it 作形式主语，否则看完一篇作文，阅卷老师只看到全篇都是 it “在跳舞”，会视觉疲劳。
+
+<br>
+
+`2.同位语从句`
+
+同位语从句是对抽象名词（advice 建议、explanation 解释、fact 事实、doubt 怀疑、news 消息、promise 承诺、order 命令、idea 想法、opinion 观点、hope 希望、belief 信念等）进行解释说明。
+
+📝 举例
+
+`中文：`没有什么能够掩盖她正在变老这个事实。
+
+`翻译：`Nothing can hide the truth that she is getting old.
+
+`解析：`“她正在变老” 是对 “这个事实” 的解释说明，翻译时，可以将前者写成后者的同位语。
+
+<br>
+
+`中文：`他们到处散播消息说大雁是个骗子。
+
+`翻译：`They spread the news everywhere that Dayan is a liar.
+
+`解析：`句子主干是 “他们到处散播消息”，是主谓宾结构。“大雁是个骗子” 是 “消息” 的同位语。
+
+<br>
+
+`中文：`没有人会不努力就变得优秀，这个事实总是被很多人忽略。
+
+`翻译：`The truth that nobody can become remarkable without endeavors is always ignored by a sea of people.
+
+`解析：`“没有人会不努力就变得优秀” 是 “这个事实” 的具体内容，翻译时，可以将前者写成后者的同位语。
+
+<br>
+
+`中文：`穿自己的鞋不仅方便而且确保了一点，不用去管别人的感受。
+
+`翻译：`Wearing my own shoes is not only convenient but also ensures a point that the feelings of others can be ignored.
+
+> PS：能独自写对上面这句话是60分的水平
