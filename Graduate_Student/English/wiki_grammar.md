@@ -1476,3 +1476,46 @@ The news that our volleyball team had won the championship encouraged us all gre
 `翻译：`Wearing my own shoes is not only convenient but also ensures a point that the feelings of others can be ignored.
 
 > PS：能独自写对上面这句话是60分的水平
+
+<br>
+
+**二、长难句分析**
+
+在分析含有名词性从句的长难句时，我们的任务是能够识别各类名词性从句并正确翻译它们。接下来，我们将分别介绍主语从句、宾语从句、表语从句及同位语从句的识别与翻译。
+
+`1.主语从句的识别与翻译`
+
+问：因为主语在谓语的前面，所以只要句首出现引导词就都是主语从句？
+
+
+答：放在句首的从句可能是主语从句，也可能是状语从句。例如：
+
+If you see him, give him this note. 你要是见到他，就把这个便条给他。
+
+这句话的句首是 If 引导的状语从句。状语从句和主句之间通常有标点符号 —— 逗号，而主语从句与主句之间没有标点符号。
+
+
+`总结一下主语从句的识别方法。`
+
+`首先`，引导词出现在句首，且和主句的谓语之间没有逗号，那么句首的从句就是主语从句。主语从句从句首开始，到主句的谓语之前结束。（PS：也可能是定语从句，但是概率非常小）。
+
+`其次`，很多句子中会出现主语从句后置的情况，所以见到 “It...that...”，也要考虑是主语从句的可能性（也有可能是强调句型，不过在我们没有讲到强调句型之前，先忽略强调句型），主语从句一般从 that 开始到句末结束，有时候从 that 开始到下一个标点结束。
+
+<br>
+
+📝 举例
+
+Furthermore, it is obvious that the strength of a country's economy is directly bound up with the efficiency of its agriculture and industry, and that this in turn rests upon the efforts of scientists and technologists of all kinds. (2000年翻译)
+
+`【结构分析】`从整体上看，该句是主系表结构。it是形式主语，is是系动词，obvious是表语，真正的主语是两个由that引导的主语从句（从that开始到句末结束）。两个主语从句由第二个and连接。第一个主语从句的谓语是is bound up with；第二个主语从句的谓语是rests upon。
+
+`【词汇释义】`
+· be bound up with 与……密切相关
+
+· efficiency /ɪˈfɪʃnsi/ n. 效率，效能
+
+· in turn 轮流；相应地；转而
+
+· rest upon 取决于，依靠，依赖
+
+`【参考译文】`此外，显而易见的是，一个国家的经济实力和它的工农业效率直接密切相关，并且这转而又取决于各类科学家和技术专家的努力。
