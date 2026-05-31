@@ -1519,3 +1519,51 @@ Furthermore, it is obvious that the strength of a country's economy is directly 
 · rest upon 取决于，依靠，依赖
 
 `【参考译文】`此外，显而易见的是，一个国家的经济实力和它的工农业效率直接密切相关，并且这转而又取决于各类科学家和技术专家的努力。
+
+<br>
+
+---
+
+`2.宾语从句的识别与翻译`
+
+```
+宾语一定出现在实义动词（词组）的后面，所以只要实义动词（词组）的后面有引导词，通常就是宾语从句。（还有可能是状语从句哟）
+```
+
+<br>
+
+`宾语从句要点汇总`
+
+`要点1：`注意，在所有的名词性从句中，只有宾语从句中的 that 通常可以省略，但在一些特殊情况下亦不可省略，例如当 that 引导的宾语从句作介词宾语时，that 不可省略。
+
+`要点2：`宾语从句中的 “是否” 可以写成 if，但是在名词性从句中，if 只能引导宾语从句，而 whether 可以引导所有的名词性从句，所以建议在表示 “是否” 时一直写成 whether，不用 if。
+
+<br>
+
+📝 举例
+
+You have all heard it repeated that men of science work by means of induction and deduction, that by the help of these operations, they, in a sort of sense, manage to extract from Nature certain natural laws, and that out of these, by some special skills of their own, they build up their theories.（1993 年翻译）
+
+`【结构分析】`主句的谓语是 have heard，句子主干是 You have heard it repeated that..., that..., and that...。所以本句是主谓宾宾补结构。it 是形式宾语，真正的宾语是三个并列的 that 从句。三个宾语从句的主干分别是：men of science work, they manage to extract from Nature certain natural laws 和 they build up their theories。
+
+`【词汇释义】`
+
+· man of science 科学家
+
+· by means of 借助…… 手段；依靠…… 方法
+
+· operation /ˌɒpəˈreɪʃn/n. 操作；活动，行动
+
+· in a sort of sense 在某种意义上
+
+· extract /ɪkˈstrækt/v. 提取；获得，得到
+
+`【参考译文】`你们都多次听说过，科学家通过归纳法和演绎法进行工作，而且从某种意义上来说，他们通过这些方法，努力从自然中获取一些自然法则，然后根据这些自然法则和自己的一些特殊技能，建立起来自己的理论。
+
+<br>
+
+📌 补充
+
+```
+当动词不定式（短语）、动词 - ing 形式（短语）或从句在某个句子中作宾语时，为保持句子结构平衡，避免句式结构的混乱，常用 it 作形式宾语，而将真正的宾语放在句尾。此时 it 仍只起引导作用，本身无词义。其结构一般是：主语 + 谓语 + it + adj./n. + to do/doing/ 从句。
+```
