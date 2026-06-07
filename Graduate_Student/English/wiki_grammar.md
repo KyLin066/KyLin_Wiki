@@ -1567,3 +1567,37 @@ You have all heard it repeated that men of science work by means of induction an
 ```
 当动词不定式（短语）、动词 - ing 形式（短语）或从句在某个句子中作宾语时，为保持句子结构平衡，避免句式结构的混乱，常用 it 作形式宾语，而将真正的宾语放在句尾。此时 it 仍只起引导作用，本身无词义。其结构一般是：主语 + 谓语 + it + adj./n. + to do/doing/ 从句。
 ```
+
+<br>
+
+---
+
+`3.表语从句的识别与翻译`
+
+```
+只要系动词后面有个引导词就是表语从句
+```
+
+`【功夫熊猫电影台词】`昨天已成历史，明天依旧成谜，但是今天是一个礼物。这就是为什么要把它叫作现在。
+
+`【翻译】`Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it's called the present!
+
+`【解析】`最后一句中，why引导表语从句。present有两个意思：“现在”和“礼物”，在句中一语双关。
+
+从上面的表语从句中很容易看出，表语从句同宾语从句很像，只不过表语从句位于系动词后面，充当句子的表语。识别表语从句的方法就是找出系动词后直接跟着的句子。翻译表语从句时，通常顺着翻译就可以，无需大幅度调整语序。接下来，我们通过一些真题例句来学习一下表语从句的识别与翻译。
+
+<br>
+
+📝 举例
+
+A report consistently brought back by visitors to the US is how friendly, courteous, and helpful most Americans were to them.
+
+`【结构分析】`该句是复合句，句子的主干是主系表结构，主语是A report，系动词是is，表语是how引导的表语从句，brought...to the US是过去分词短语作A report的后置定语。
+
+`【词汇释义】`
+
+· consistently /kənˈsɪstəntli/ adv. 一贯地，始终
+
+· courteous /ˈkɜːtiəs/ adj. 彬彬有礼的，客气的
+
+`【参考译文】`去过美国的游客回去后总是说，大部分的美国人对他们多么友好、客气并且乐于帮忙。
