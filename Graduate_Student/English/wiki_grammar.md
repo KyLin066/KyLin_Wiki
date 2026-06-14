@@ -1601,3 +1601,31 @@ A report consistently brought back by visitors to the US is how friendly, courte
 · courteous /ˈkɜːtiəs/ adj. 彬彬有礼的，客气的
 
 `【参考译文】`去过美国的游客回去后总是说，大部分的美国人对他们多么友好、客气并且乐于帮忙。
+
+<br>
+
+`4.同位语从句的识别与翻译`
+
+```
+只要名词后面有引导词，暂定为同位语从句（更有可能是定语从句哟）
+```
+
+TODO：后面学到定语从句在来和同位语从句做区别
+
+<br>
+
+📝 举例
+
+Successive governments have permitted such increases on the grounds that the cost of investing in and running the rail network should be borne by those who use it, rather than the general taxpayer.
+
+`【结构分析】`句子的主干是 Successive governments have permitted such increases。on the grounds that 引导原因状语从句，该从句的主干为 the cost should be borne; of investing...network 作 cost 的后置定语，by those...taxpayer 作状语，其中 who use it 是修饰 those 的定语从句。
+
+`【词汇释义】`
+
+・successive /səkˈsesɪv/adj. 连续的，接连的
+
+・ground /ɡraʊnd/n. 充分的理由，根据；地面；场地
+
+・bear /beə(r)/v. 忍受，承受，承担
+
+`【参考译文】`历届政府都允许这种（票价）上涨，理由是投资和运营铁路网络的成本应由铁路使用者承担，而非普通纳税人。 
