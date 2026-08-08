@@ -874,6 +874,10 @@ PS：莱布尼茨公式中的大C为杨辉三角的表示符号，其公式如�
 
 ![csc(x)常用数值](../../images/91f3debe45939bc45d5ecad10e4039c20be420ca3d691131b412642be2c20f13.png)
 
+`7.arcsin(x)`
+
+![arcsin(x)常用数值](../../images/6f84705dbcf8ce24f9278145572c1777b29ba10ed68ac4a4290770ca0002dbe3.png)
+
 <br>
 
 ### `重要公式`
