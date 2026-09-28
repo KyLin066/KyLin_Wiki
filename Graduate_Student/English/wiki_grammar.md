@@ -1629,3 +1629,105 @@ Successive governments have permitted such increases on the grounds that the cos
 ・bear /beə(r)/v. 忍受，承受，承担
 
 `【参考译文】`历届政府都允许这种（票价）上涨，理由是投资和运营铁路网络的成本应由铁路使用者承担，而非普通纳税人。 
+
+<br>
+
+## `第四章·定语和定语从句`
+
+### `第一节·定语概述`
+
+**一、什么是定语**
+
+①那只善良的夜莺失去了它的生命。
+
+`【解析】`“善良的” 修饰 “夜莺”。
+
+②住在年轻人隔壁的那个女孩应该很漂亮。
+
+`【解析】`“住在年轻人隔壁的” 修饰 “那个女孩”。
+
+③家境贫困的年轻人爱上了教授的女儿。
+
+`【解析】`“家境贫困的” 修饰 “年轻人”；“教授的” 修饰 “女儿”。
+
+<br>
+
+`【总结】`其实只要在中文中听到“……的”后跟名词或代词，“……的”就是修饰这个名词或代词的定语成分。弄懂中文的定义，也就明白英文的定语了。
+
+<br>
+
+### `第二节·定语的成分`
+
+`1. 形容词（短语）作定语`
+
+①这朵非凡的玫瑰花变成了深红色。
+
+`【翻译】`This extraordinary rose turns dark red.
+
+<br>
+
+`2. 名词（短语）作定语`
+
+①夜莺的歌声能使这朵玫瑰花开放。
+
+`【翻译】``The nightingale’s` singing can make the rose bloom.
+
+或 The singing `of the nightingale` can make the rose bloom.
+
+> **注意**：虽然名词（短语）修饰名词（短语）有两种写法，但是在阅读理解的文章中更倾向于写成of结构。此外，名词可以直接修饰名词，比如：a diamond necklace（一条钻石项链）。
+
+<br>
+
+`3. 介词短语作定语`
+
+①我只有和浪花沫一样白的玫瑰花。
+
+`【翻译】`I only have roses `as white as foam.`
+
+<br>
+
+`4. 非谓语动词（短语）作定语`
+
+①单纯的夜莺一定是爱上了那个被女孩欺骗的学生。
+
+`【翻译】`The innocent nightingale must have fallen in love with the student `deceived by the girl.`
+
+`【解析】`过去分词短语 deceived by the girl 作定语，修饰 the student。
+
+<br>
+
+`5. 从句作定语`
+
+①夜莺用生命换来的玫瑰花被扔掉了。
+
+`【翻译】`The rose `which the nightingale exchanged its life for` was discarded.
+
+`【解析】`which 引导定语从句，修饰 The rose。
+
+> **总结**：毫无疑问，中文总是把定语放到名词前，但是英文不全是这样。那英文中定语到底是放在名词（短语）前还是名词（短语）后呢？请回看前面定语的成分，你会发现一个规律，那就是“前短后长”。也就是说定语的位置取决于它的长短。当一个单词修饰名词（短语）时通常放在名词（短语）前面；当两个以上的单词修饰名词（短语）时通常放在名词（短语）后面。
+
+<br>
+
+📝 举例
+
+① 这是一个关于夜莺与玫瑰的故事。
+
+`【翻译】`This is a story `about a nightingale and a rose.`
+
+`【解析】`介词短语作定语，比较长，放在所修饰的名词之后。
+
+<br>
+
+② 在王子的舞会上，那个懂爱的年轻人被拒绝了。
+
+`【翻译】`At the party `of the prince`, the youngster `understanding love` was rejected.
+
+`【解析】`这句话有两个定语，第一个是名词修饰名词，用A of B短语，第二个是现在分词短语修饰名词，放在所修饰的名词之后。
+
+<br>
+
+③ 那个被抛弃的男孩看起来很可怜。
+
+`【翻译】`The `dumped` boy looks pitiful. /The boy `dumped` looks pitiful.
+
+`【解析】`过去分词 dumped 作定语，修饰 The boy，位置可前可后，通常放在所修饰名词之后。
