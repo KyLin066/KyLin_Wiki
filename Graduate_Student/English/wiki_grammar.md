@@ -1731,3 +1731,134 @@ Successive governments have permitted such increases on the grounds that the cos
 `【翻译】`The `dumped` boy looks pitiful. /The boy `dumped` looks pitiful.
 
 `【解析】`过去分词 dumped 作定语，修饰 The boy，位置可前可后，通常放在所修饰名词之后。
+
+<br>
+
+### `第三节·细讲定语从句`
+
+**一、定语从句的构成**
+
+`先行词【名词（短语）/代词】` + `引导词` + `从句其他部分`
+
+---
+
+<br>
+
+**二、定语从句的引导词**
+
+定语从句的引导词按照所修饰的先行词进行分类，可以分为以下五类：
+
+|先行词|引导词|
+| ---- | ---- |
+|人|that,who,whom,whose|
+|物|that,which,whose|
+|时间|that,which,when|
+|地点|that,which,where|
+|原因|that,which,why|
+
+<br>
+
+`小结`
+```
+乍一看，大家会觉得引导词好多呀！不要怕，记住以下三点：
+
+第一，一般情况下，先行词为人时，that等同于who；
+
+第二，一般情况下，先行词为物时，that等同于which（后面会详细讲两者的区别）；
+
+第三，我们学习英语语法不是为了成为语法大师，而是为了更好地理解语义。我们力争抓住主要矛盾，攻克重点和普遍性的东西。
+```
+
+上述五种分类方法缩小了引导词可选的范围，比如当先行词是人时，可以首先排除不修饰人的那些引导词，但是仍然有四个引导词，具体题目中到底使用哪个引导词呢？我们通过几道练习题来进一步学习一下引导词的使用。
+
+<br>
+
+`总结`
+
+```
+根据前面的论述，定语从句的引导词也可以按照引导词本身的词性或者按照引导词在从句中充当的成分分为三类：
+
+（1）代词（在从句中充当主语、宾语或表语）：who，whom（在从句中仅能充当宾语），that，which；
+
+（2）副词（在从句中不能充当主干成分）：where，when，why；
+
+（3）形容词［不少语法书把 whose 归为代词，我在这里还是把它列为形容词，更方便同学们理解。在从句中只能充当定语，修饰名词（短语）］：whose。
+```
+
+<br>
+
+`判断引导词的方法：`首先通过`先行词`缩小范围，在根据`从句`是否缺成分；缺成分用`代词`，不缺成分用`副词`。
+
+<br>
+
+💡练习
+
+请在横线上填入恰当的引导词。
+
+① Watch out! Don’t get too close to the house ____ roof is under repair. 小心！不要靠近这所房子，房顶正在维修。
+
+`【解析】`先行词是物 the house，引导词可选 which/that 或者 whose；从句缺定语，所以答案是 whose。
+
+② The old lady died on that day ____ her son arrived. 那个老妇人在她儿子到达的那天去世了。
+
+`【解析】`先行词是时间 that day，引导词可选 which/that 或者 when。关键要看从句是否缺主干成分。因为 arrive 为不及物动词，后面不能直接跟宾语，并且句意很完整，从句不缺主语或宾语，所以答案只能是关系副词 when。
+
+---
+
+<br>
+
+**三、定语从句的先行词**
+
+`1.先行词的难点`
+
+我们来看一道考研完形填空题目：
+
+The words used by the speaker may stir up unfavorable reactions in the listener ____ interfere with his comprehension; hence, the transmission‑reception system breaks down.（1994年完形）
+
+A. who
+
+B. as
+
+C. which
+
+D. what
+
+`【解析】`如果不仔细思考，认为先行词是 listener，从句缺少主语，就会选 who。事实上，正确答案是 which。
+
+仔细分析可知，The words 是主句主语，used by the speaker 是 The words 的后置定语，主句谓语是 may stir up，宾语是 reactions，in the listener 是 reactions 的后置定语。这部分的字面意思为：说话人所使用的语言会激起听者不好的反应。横线处到分号前是定语从句。是什么阻碍了听者的理解？显然横线处不填指人的先行词，那是什么呢？顺着引导词往前找，很容易就能找到 reactions，是这种不好的反应影响了听者的理解，所以先行词不是 listener，而是 reactions，因此答案选 C。
+
+> **`总结`**：一般情况下，定语从句紧跟先行词，但有时候，定语从句与先行词之间插入了其他成分，使它与先行词分隔开来。这是先行词的难点。所以同学们要记住，在分析长难句时，定语从句的先行词有可能不是离它最近的名词或代词。我们寻找先行词时，不能只看位置，也要靠句意。
+
+---
+
+<br>
+
+`2.识别先行词`
+
+我们先来看一个例子。
+
+When someone abandons you, it’s his loss because for him, he loses someone who loves him but for you, you just lose someone who does not love you. 当有人抛弃你的时候，这是他的损失。因为对他来说，他失去了一个爱他的人，而你只是失去了一个不爱你的人。
+
+`【解析】`句中两个 someone 后面都跟有 who 引导的定语从句。这是最常见的定语从句的形式，定语从句的先行词是离它最近的名词或代词。
+
+<br>
+
+> **`总结`**：多数情况下，先行词和引导词是连在一起的，很容易发现。如果无法确认先行词的位置，可以通读句子，借助句意来判断。
+
+<br>
+
+📝 举例
+
+① As a linguist, he acknowledges that all varieties of human language, including non‑standard ones like Black English, can be powerfully expressive—there exists no language or dialect in the world that cannot convey complex ideas.（2005 年阅读第四篇）
+
+`【结构分析】`该句是复合句，主句是主谓宾结构，宾语是 that 引导的从句。破折号后面的句子是插入语，对前面的宾语从句进行补充说明，其中 that 引导定语从句，修饰 language or dialect，定语从句的先行词和引导词被 in the world 隔开了。
+
+`【词汇释义】`
+
+- linguist /ˈlɪŋɡwɪst/n. 语言学家
+- acknowledge /əkˈnɒlɪdʒ/v. 承认；认可；感谢
+- variety /vəˈraɪəti/n. 种类，品种；多样化，变化
+- dialect /ˈdaɪəlekt/n. 方言，土话
+- complex /ˈkɒmpleks/adj. 复杂的，难懂的
+
+`【参考译文】`作为一名语言学家，他承认各种各样的人类语言，包括像黑人英语这样的非标准语言，都具有强大的表现力 —— 世界上没有传达不了复杂思想的语言或方言。
