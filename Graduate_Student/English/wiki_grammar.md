@@ -1862,3 +1862,151 @@ When someone abandons you, it’s his loss because for him, he loses someone who
 - complex /ˈkɒmpleks/adj. 复杂的，难懂的
 
 `【参考译文】`作为一名语言学家，他承认各种各样的人类语言，包括像黑人英语这样的非标准语言，都具有强大的表现力 —— 世界上没有传达不了复杂思想的语言或方言。
+
+---
+
+<br>
+
+**四、定语从句的特殊用法**
+
+`1.限制性和非限制性定语从句`
+
+提起限制性定语从句和非限制性定语从句的区别，大家能想到的就是从句前是否可以加逗号“，”，或者是非限制性定语从句不能用 that。其实它们最大的区别不在于此，而是表达意义上的不同。例如：
+
+① I love Ms. Liu who is beautiful.
+
+② I love Ms. Liu, who is beautiful.
+
+句①翻译成：我爱漂亮的刘女士。
+
+句②翻译成：我爱刘女士，她挺漂亮的。
+
+`【解析】`你能看出什么区别吗？句①暗含的意思是：如果有一天刘女士不漂亮了，我就不再爱她了。句②则不同：即使刘女士不美了，我仍然爱着她，因为我爱的不是她的美，而是她这个人。
+
+<br>
+
+`（1）限制性和非限制性定语从句的区别`
+
+- 限制性定语从句：定语从句一般紧跟在先行词之后，不能省略，省略后整个句意不完整。
+
+- 非限制性定语从句：对前面的先行词进行补充说明，即使省略也不影响总体意思，用逗号与主句隔开。其特点有两个：第一，可以省略；第二，起补充说明作用。
+
+<br>
+
+|从句及区别点|限制性定语从句|非限制性定语从句|
+| ---- | ---- | ---- |
+|与先行词的关系|关系比较紧密，删除后影响句子本身的意思|关系没那么紧密，起补充说明作用，删除后不影响主句的意思|
+|标点符号|不用逗号|用逗号|
+|引导词|可以用 that|不可以用 that|
+|当引导词 which/whom 在从句中作宾语时|可省略|不可以省略|
+|能否指代前面的句子|不可以指代|可以指代|
+|翻译时的区别|常译为定语|常译为独立的句子|
+
+<br>
+
+`（2）非限制性定语从句的引导词`
+
+非限制性定语从句的引导词不能用 that，但选择方法和限制性定语从句选择引导词是一样的。当先行词是人或物的时候，引导词要用 who/whom/whose/which。例如：
+
+① He said he had finished all his homework, which I doubted very much.
+
+`【解析】`本句中的非限制性定语从句是对前面的句子进行补充说明，所以引导词用 which。
+
+`【翻译】`他说他完成了所有作业，我对此十分怀疑。
+
+<br>
+
+`（3）非限制性定语从句的翻译方法`
+
+此处的翻译方法只是针对考研翻译这个题目而言，因为阅读中的非限制性定语从句一般视为插入语，可以跳过不看。
+
+`1）如果修饰前面的名词，常常翻译成独立的句子。`
+
+① France, which prides itself as the global innovator of fashion, has decided its fashion industry has lost an absolute right to define physical beauty for women.（2016 年英一阅读第一篇）
+
+`【解析】`which 引导非限制性定语从句，修饰先行词 France，类似于插入语，起补充说明的作用，翻译时可以采用顺译的方法。
+
+`【翻译】`法国一直以全球时尚革新者的身份自居，但现在它认为，其时尚行业已失去定义女士形体美的绝对权利。
+
+<br>
+
+`2）如果定语从句是对前面的句子进行补充说明，并且引导词充当从句主语时，常常翻译成“这；它；那”；充当其他成分时，则要根据汉语的语言习惯来翻译。`
+
+① Lu Yao is a great writer born in Shaanxi Province, which is known to us all.
+
+`【解析】`which 引导非限制性定语从句，起到补充说明的作用，which 指代前面整个主句的内容，which 充当从句的主语，因此根据汉语的语言习惯，将 which 翻译成“这”。
+
+`【翻译】`路遥是一位出生在陕西省的伟大作家，这是众所周知的。
+
+---
+
+<br>
+
+`2.省略 that 的情况`
+
+在限制性定语从句中，如果引导词 that 在从句中充当的是宾语，则可以被省略。例如：
+
+I enjoy the movie we saw yesterday. 我很喜欢我们昨天看的电影。
+
+【解析】本句的主干是 I enjoy the movie，先行词是 the movie，从句是 we saw yesterday，缺少宾语，因此引导词可选 that 或 which，而 that 充当宾语可以省略，名词 movie 后为省略了 that 的定语从句。
+
+> **`总结`**：分析长难句时如果看到两个名词（短语），或者一个名词（短语）与一个代词直接放在一起，很可能有省略了 that 的定语从句。
+
+<br>
+
+📝 举例
+
+① The climate change we are hastening could one day leave us with forests that emit more carbon than they absorb.（2019 年英二阅读第二篇）
+
+`【结构分析】`该句是复合句，主句的主干是 The climate change could leave us with forests，是主谓宾宾补结构。we are hastening 是省略 that 的定语从句，修饰 The climate change。第二个定语从句 that emit more carbon than they absorb 是 that 引导的定语从句，修饰 forests。
+
+`【词汇释义】`
+
+- climate change 气候变化
+
+- hasten /ˈheɪsn/ v. 加剧，加快
+
+- emit /iˈmɪt/ v. 发出，排放
+
+- carbon /ˈkɑːbən/ n. 碳
+
+`【参考译文】`有朝一日，我们正在加剧的气候变化会使得森林的碳排放量超过其吸收量。
+
+<br>
+
+🔊晓艳有话说
+
+> 前面我们提到句子中如果有两个名词（短语）相连，句子中很有可能有省略了that的定语从句，但这只是通常情况，也有一些特殊情况。例如：
+>
+> I shall define him as an individual who has elected as his primary duty and pleasure in life the activity of thinking in a Socratic way about moral problems.
+> 我要把他（知识分子）定义为这样一种人：对道德问题进行苏格拉底式思考并将此作为自己生活的主要职责和乐趣。（2006年翻译）
+>
+>【解析】这句话中 life 和 the activity 两个名词直接放在一起，没有连词和标点符号隔开，但是它不是省略了that的定语从句，而是句子成分位置调整的结构。这个句子的正确顺序是：I shall define him as an individual who has elected `the activity of thinking in a Socratic way about moral problems` as his primary duty and pleasure in life。显然，高亮部分作了 elected 的宾语，作者认为宾语太长，把它放在句末了。
+
+---
+
+<br>
+
+`3.as和which引导的非限制性定语从句`
+
+`（1）相同点`
+
+两者都可以引导非限制性定语从句。
+
+`（2）不同点`
+
+1）as引导非限制性定语从句，位置比较灵活，可以放在主句的前、中、后，此处的as常翻译为“正如”；which引导的非限制性定语从句只能放在所修饰的词或句子的后面。例如：
+
+> As is known to us all, without efforts nothing can be achieved. = Without efforts nothing can be achieved, which is known to us all. 
+> 
+> 众所周知，不努力就会一事无成。
+
+2）紧跟在引导词as后的动词是be动词；而which后面可以跟任何类型的动词。例如：
+
+> ① As is known to all, China is a peace-loving country. 众所周知，中国是一个爱好和平的国家。
+> 
+> ② Tiechui was late, which made Ms. Liu very angry. 铁锤迟到了，这使刘女士很生气。
+
+---
+
+<br>
