@@ -1000,6 +1000,24 @@ PS：莱布尼茨公式中的大C为杨辉三角的表示符号，其公式如�
 
 ![高阶偏导数与常用性质](../../images/094dda5114028278f338ae5a1f8ed5569db0756b957e054f0335076bab8486d1.png)
 
+<br>
+
+> PS：遇到不可拆分的换元求导型题目，一般先代值再求导比先求导再代值简单很多
+
+![偏导数的换元求导型例题](../../images/369d840c921c94e42b9d617a787212c9d41fd978c9f663276fb7a73f28186ff0.png)
+
+<br>
+
+#### `可微`
+
+![定义](../../images/2b7994cae1e2d6e7b30d7defe76d4bcd7505d78700c59a5511ae85685dd61ee7.png)
+
+![可微的必要条件](../../images/9d24980f4dae59f361fcabe2a13f754455cddefd8bbc796926013ad01be52266.png)
+
+![可微的充分条件](../../images/d09a51d3ba99c5c75c487488702ae04aacdf12d868ba75efbca1cbe195ce749e.png)
+
+![可微的判别步骤](../../images/a3c4bcd088270827484d2adbaf01d15d88c84e43511e89eea658d5d674cab043.png)
+
 ---
 
 <br>
